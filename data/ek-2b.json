@@ -1,0 +1,508 @@
+{
+    "ekNo": "EK-2B",
+    "başlık": "İLLERİN BÖLGESEL DESTEKLERDEN YARARLANABİLECEK SEKTÖRLERİNE İLİŞKİN SEKTÖR NUMARALARI",
+    "tablo": {
+      "başlıklar": [
+        "BÖLGE",
+        "İL ADI",
+        "SEKTÖR NUMARALARI"
+      ],
+      "satirlar": [
+        {
+          "BÖLGE": "1. BÖLGE",
+          "İL ADI": "ANKARA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ANTALYA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "BURSA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ESKİŞEHİR",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "İSTANBUL",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "İZMİR",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KOCAELİ",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "MUĞLA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "SAKARYA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "TEKİRDAĞ",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "YALOVA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": "2. BÖLGE",
+          "İL ADI": "ADANA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "AYDIN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "BOLU",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ÇANAKKALE\n(Bozcaada ve Gökçeada hariç)",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "DENİZLİ",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "EDİRNE",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ISPARTA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KAYSERİ",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KIRKLARELİ",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KONYA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "TRABZON",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ZONGULDAK",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": "3. BÖLGE",
+          "İL ADI": "BALIKESİR",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "BİLECİK",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "BURDUR",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "GAZİANTEP",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KARABÜK",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KARAMAN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "MANİSA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "MERSİN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "UŞAK",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": "4. BÖLGE",
+          "İL ADI": "AFYONKARAHİSAR",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "AMASYA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ARTVİN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "BARTIN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ÇORUM",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "DÜZCE",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ELAZIĞ",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ERZİNCAN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "GİRESUN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "GÜMÜŞHANE",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "HATAY",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KASTAMONU",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KIRŞEHİR",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KÜTAHYA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "MALATYA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "NEVŞEHİR",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "RİZE",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "SİVAS",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": "5. BÖLGE",
+          "İL ADI": "ADIYAMAN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "AKSARAY",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "BAYBURT",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ÇANKIRI",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ERZURUM",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "GİRESUN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "GÜMÜŞHANE",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KAHRAMANMARAŞ",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KİLİS",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "NİĞDE",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ORDU",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "OSMANİYE",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "SİNOP",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "TOKAT",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "TUNCELİ",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "YOZGAT",
+          "SEKTÖR NUMARALARI": "1 2 3 4 5 6 7 8 9 10 11 14 21 27 28 29 30 32 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50"
+        },
+        {
+          "BÖLGE": "6. BÖLGE",
+          "İL ADI": "AĞRI",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ARDAHAN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "BATMAN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "BİNGÖL",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "BİTLİS",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "DİYARBAKIR",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "HAKKARİ",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "IĞDIR",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "KARS",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "MARDİN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "MUŞ",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "SİİRT",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ŞANLIURFA",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "ŞIRNAK",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        },
+        {
+          "BÖLGE": null,
+          "İL ADI": "VAN",
+          "SEKTÖR NUMARALARI": "1 2 3 4 41 44 45 46 48 50"
+        }
+      ]
+    },
+    "dipNotlar": [
+      {
+        "sıraNo": "1",
+        "metin": "İstanbul ili hariç olmak üzere, Bilim, Sanayi ve Teknoloji Bakanlığı tarafından ilan edilen İhtisas Organize Sanayi Bölgelerinde gerçekleştirilecek ihtisas konulan yatırımlar, ilgili bölgede seçilmiş sektörler için uygulanan desteklerden faydalanabilir."
+      },
+      {
+        "sıraNo": "2",
+        "metin": "Entegre hayvancılık yatırımlarında entegrasyon için Kararda belirtilen şartlar aranır."
+      },
+      {
+        "sıraNo": "3",
+        "metin": "Turizm yatırımlarında bölgesel bazda tesis, yıldızlığı ve butik otel yatırımlarında “3 yıldız ve üzeri” şartı aranır."
+      },
+      {
+        "sıraNo": "4",
+        "metin": "Uluslararası fuar yatırımlarında asgari 50.000 metrekare kapalı alan şartı aranır."
+      },
+      {
+        "sıraNo": "5",
+        "metin": "Entegre hayvancılık yatırımlarında:"
+      },
+      {
+        "sıraNo": null,
+        "metin": "a) Süt yönlü büyükbaş entegre hayvancılık yatırımlarında 500 büyükbaş, et yönlü büyükbaş entegre hayvancılık yatırımlarında 700 büyükbaş/dönem, damızlık büyükbaş entegre yatırımlarında 500 büyükbaş, damızlık küçükbaş hayvan entegre yatırımlarında 2.000 küçükbaş, süt ve et yönlü küçükbaş entegre yatırımlarda 2.000 küçükbaş/dönem ve kanatlı entegre yatırımlarda 200.000 adet/dönem asgari kapasite şartı aranır."
+      },
+      {
+        "sıraNo": null,
+        "metin": "b) 3 üncü, 4 üncü ve 5 inci bölgelerde gerçekleştirilecek entegre hayvancılık yatırımlarında damızlık büyükbaş hayvancılıkta 300 büyükbaş/dönem, süt yönlü büyükbaş entegre yatırımlarda 250 büyükbaş, et yönlü büyükbaş entegre yatırımlarda 300 büyükbaş, damızlık küçükbaş entegre hayvancılıkta 1.000 küçükbaş, süt ve et yönlü küçükbaş entegre yatırımlarda 1.000 küçükbaş/dönem ve kanatlı entegre yatırımlarda 200.000 adet/dönem asgari kapasite şartı aranır."
+      },
+      {
+        "sıraNo": "6",
+        "metin": "Demir-çelik ürünleri yatırımlarında (Ek-5’te yer alan demir çelik ürünlerinin üretimine yönelik yatırımlar hariç), entegre madencilik yatırımları (maden kaynaklarının entegre bir şekilde işlenerek nihai ürüne dönüştürüldüğü, yarı mamul veya nihai ürün üreten tesislerde entegre madencilik yatırımları), maden arama ve işleme yatırımları (madencilik faaliyetleri ile cevherin zenginleştirilmesi, metalik madenlerin saflaştırılması ve metalik madenlerden nihai ürün üretimi), entegre gübre yatırımları (doğalgazdan gübre üretimi hariç) ve diğer entegre sanayi yatırımları (hammadde veya ara mamulün tesiste üretilerek nihai ürüne dönüştürüldüğü yatırımlar) gibi entegre yatırımlarda, Kararda belirtilen entegrasyon şartı aranır."
+      },
+      {
+        "sıraNo": "7",
+        "metin": "Derin deşarj tesisi yatırımları ve modernizasyon yatırımlarında bölgesel desteklerden faydalanılmaz."
+      },
+      {
+        "sıraNo": "8",
+        "metin": "Bu ekte yer alan tabloda belirtilen sektörler dışındaki tüm sektörler genel teşvik sisteminden desteklenir."
+      },
+      {
+        "sıraNo": "9",
+        "metin": "Ek: 9 b. no.lu belge hariç olmak üzere, I. grup madenler ve mıcır yatırımları ile İstanbul ilinde gerçekleştirilecek maden istihraç ve/veya işleme yatırımları bölgesel desteklerden yararlanamaz."
+      },
+      {
+        "sıraNo": "10",
+        "metin": "Halıcılık ve tafting yatırımlarında asgari 20.000 metrekare kapalı alan şartı aranır."
+      },
+      {
+        "sıraNo": "11",
+        "metin": "Motelcilik kararlarındaki asgari kapasite veya yatırım tutarları geçiş bölgeleri ve bölgelerarası yatırımlar için geçerlidir."
+      },
+      {
+        "sıraNo": "12",
+        "metin": "İstanbul (1. Bölge) ve Tekirdağ (2. Bölge) illerinde asgari 50 milyon TL tutarındaki komple yeni yatırımlar için, yatırım tutarına orantılı olarak İstanbul'da %10, Tekirdağ'da %15 oranında ilave destek sağlanır."
+      },
+      {
+        "sıraNo": "13",
+        "metin": "Birim başına asgari kapasite veya yatırım tutarı: 50 koltuk veya 30.000 kg kargo kapasitesi."
+      },
+      {
+        "sıraNo": "14",
+        "metin": "İkinci el makine ve teçhizat yatırımlarında, Karar ve Tebliğde belirtilen şartlar aranır."
+      },
+      {
+        "sıraNo": "15",
+        "metin": "Otomotiv yan sanayi yatırımlarında, motorlu kara taşıtları ana sanayi yatırımları kapsamındaki yatırımlarda asgari 50 milyon TL, motor aksamları, aktarma organları/aksamları ve otomotiv elektroniğine yönelik yatırımlarda asgari 20 milyon TL."
+      },
+      {
+        "sıraNo": "16",
+        "metin": "Demiryolu ve tramvay lokomotifleri ve/veya vagon imalatı yatırımlarında asgari 50 milyon TL."
+      },
+      {
+        "sıraNo": "17",
+        "metin": "Tıbbi alet, hassas ve optik aletler imalatı yatırımlarında asgari 50 milyon TL."
+      },
+      {
+        "sıraNo": "18",
+        "metin": "Hava ve uzay taşıtları ve/veya parçaları imalatı yatırımlarında asgari 50 milyon TL."
+      },
+      {
+        "sıraNo": "19",
+        "metin": "Makine (Elektrikli Makine ve Cihazlar Dahil) imalatı yatırımlarında asgari 50 milyon TL."
+      },
+      {
+        "sıraNo": "20",
+        "metin": "Metal üretimine yönelik yatırımlarda (Maden Kanununda belirtilen IV/C grubu metalik madenlerin cevher ve/veya konsantresinden nihai metal üretimine yönelik yatırımlar (bu tesislere entegre madencilik yatırımları dahil)) asgari 50 milyon TL."
+      }
+    ]
+  }

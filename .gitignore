@@ -1,0 +1,15 @@
+# Gizli bilgileri ve ortam değişkenlerini içeren dosyalar
+.env*
+
+# Python cache ve sanal ortam dosyaları
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+mevzuat_veritabani/
+
+# IDE ve OS'a özel dosyalar
+.vscode/
+.idea/
+*.DS_Store 

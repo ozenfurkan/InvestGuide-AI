@@ -1,0 +1,144 @@
+{
+    "ekNo": "EK-1",
+    "başlık": "YATIRIM TEŞVİK UYGULAMALARINDA BÖLGELER",
+    "tablo": {
+      "başlıklar": [
+        "1. Bölge",
+        "2. Bölge",
+        "3. Bölge",
+        "4. Bölge",
+        "5. Bölge",
+        "6. Bölge"
+      ],
+      "satirlar": [
+        {
+          "1. Bölge": "Ankara",
+          "2. Bölge": "Adana",
+          "3. Bölge": "Balıkesir",
+          "4. Bölge": "Afyonkarahisar",
+          "5. Bölge": "Adıyaman",
+          "6. Bölge": "Ağrı"
+        },
+        {
+          "1. Bölge": "Antalya",
+          "2. Bölge": "Aydın",
+          "3. Bölge": "Bilecik",
+          "4. Bölge": "Amasya",
+          "5. Bölge": "Aksaray",
+          "6. Bölge": "Ardahan"
+        },
+        {
+          "1. Bölge": "Bursa",
+          "2. Bölge": "Bolu",
+          "3. Bölge": "Burdur",
+          "4. Bölge": "Artvin",
+          "5. Bölge": "Bayburt",
+          "6. Bölge": "Batman"
+        },
+        {
+          "1. Bölge": "Eskişehir",
+          "2. Bölge": "Çanakkale\n(Bozcaada ve\nGökçeada\nİlçeleri Hariç)",
+          "3. Bölge": "Gaziantep",
+          "4. Bölge": "Bartın",
+          "5. Bölge": "Çankırı",
+          "6. Bölge": "Bingöl"
+        },
+        {
+          "1. Bölge": "İstanbul",
+          "2. Bölge": "Denizli",
+          "3. Bölge": "Karabük",
+          "4. Bölge": "Çorum",
+          "5. Bölge": "Erzurum",
+          "6. Bölge": "Bitlis"
+        },
+        {
+          "1. Bölge": "İzmir",
+          "2. Bölge": "Edirne",
+          "3. Bölge": "Karaman",
+          "4. Bölge": "Düzce",
+          "5. Bölge": "Giresun",
+          "6. Bölge": "Diyarbakır"
+        },
+        {
+          "1. Bölge": "Kocaeli",
+          "2. Bölge": "Isparta",
+          "3. Bölge": "Manisa",
+          "4. Bölge": "Elazığ",
+          "5. Bölge": "Gümüşhane",
+          "6. Bölge": "Hakkari"
+        },
+        {
+          "1. Bölge": "Muğla",
+          "2. Bölge": "Kayseri",
+          "3. Bölge": "Mersin",
+          "4. Bölge": "Hatay",
+          "5. Bölge": "Kahramanmaraş",
+          "6. Bölge": "Iğdır"
+        },
+        {
+          "1. Bölge": "Sakarya",
+          "2. Bölge": "Kırklareli",
+          "3. Bölge": "Konya",
+          "4. Bölge": "Kastamonu",
+          "5. Bölge": "Kilis",
+          "6. Bölge": "Kars"
+        },
+        {
+          "1. Bölge": "Tekirdağ",
+          "2. Bölge": "Konya",
+          "3. Bölge": "Trabzon",
+          "4. Bölge": "Kırıkkale",
+          "5. Bölge": "Niğde",
+          "6. Bölge": "Mardin"
+        },
+        {
+          "1. Bölge": "Yalova",
+          "2. Bölge": "Sakarya",
+          "3. Bölge": "Uşak",
+          "4. Bölge": "Kırşehir",
+          "5. Bölge": "Ordu",
+          "6. Bölge": "Muş"
+        },
+        {
+          "1. Bölge": null,
+          "2. Bölge": "Tekirdağ",
+          "3. Bölge": "Zonguldak",
+          "4. Bölge": "Kütahya",
+          "5. Bölge": "Osmaniye",
+          "6. Bölge": "Siirt"
+        },
+        {
+          "1. Bölge": null,
+          "2. Bölge": "Yalova",
+          "3. Bölge": null,
+          "4. Bölge": "Malatya",
+          "5. Bölge": "Sinop",
+          "6. Bölge": "Şanlıurfa"
+        },
+        {
+          "1. Bölge": null,
+          "2. Bölge": null,
+          "3. Bölge": null,
+          "4. Bölge": "Nevşehir",
+          "5. Bölge": "Tokat",
+          "6. Bölge": "Şırnak"
+        },
+        {
+          "1. Bölge": null,
+          "2. Bölge": null,
+          "3. Bölge": null,
+          "4. Bölge": "Rize",
+          "5. Bölge": "Tunceli",
+          "6. Bölge": "Van"
+        },
+        {
+          "1. Bölge": null,
+          "2. Bölge": null,
+          "3. Bölge": null,
+          "4. Bölge": "Sivas",
+          "5. Bölge": "Yozgat",
+          "6. Bölge": "Bozcaada ve Gökçeada İlçeleri"
+        }
+      ]
+    }
+  }

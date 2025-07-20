@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langgraph
+langchain-community
+fastembed
+faiss-cpu
+pydantic
+streamlit

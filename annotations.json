@@ -1,0 +1,160 @@
+[
+  {
+    "change_id": "OSB_BOLGE_AVANTAJI_2017",
+    "description": "OSB ve EB'de yapılan yatırımların bir alt bölge desteklerinden yararlanması.",
+    "legal_source": "678 sayılı KHK",
+    "effective_date": "17-05-2017",
+    "end_date": null,
+    "directive": "Yatırımın adresi 'Organize Sanayi Bölgesi' veya 'Endüstri Bölgesi' ifadesi içeriyorsa, destek hesaplamaları için bir alt bölgeyi temel al (Örn: 3. Bölge ise 4. Bölge desteklerini uygula).",
+    "past_state_directive": "Bu tarihten önce OSB veya EB için bir alt bölge avantajı uygulanmaz. Destekler, yatırımın fiziksel olarak bulunduğu bölgeye göre hesaplanır."
+  },
+  {
+    "change_id": "EK4_EGITIM_TESVIK_KAPSAM_DEGISIKLIGI",
+    "description": "Teşvik edilmeyen eğitim yatırımları kapsamı yeniden tanımlandı.",
+    "legal_source": "2012/3802 sayılı Karar",
+  "effective_date": "2013-02-15",
+    "end_date": null,
+    "directive": "Şu listedeki eğitim yatırımları teşvik edilir: 'Okul öncesi', 'ilkokul', 'ortaokul', 'lise', 'yüksekokul', 'üniversite', 'yükseköğretim', 'teknik ve mesleki öğretim'. Bunların dışındakiler (kurs, dershane vb.) teşvik edilmez.",
+    "past_state_directive": "Bu kural yatırımcı lehine bir değişikliktir (okul öncesi eğitim teşvik kapsamına alınmıştır). Talep edilmesi halinde, yürürlük tarihinden önceki başvurular için de bu yeni (lehe) direktif uygulanabilir."
+  },
+  {
+    "change_id": "EK4_SAGLIK_TESVIK_KAPSAM_DEGISIKLIGI",
+    "description": "Teşvik edilmeyen sağlık yatırımlarının kapsamı daraltıldı.",
+    "legal_source": "2012/3802 sayılı Karar",
+    "effective_date": "2013-02-15",
+    "end_date": null,
+    "directive": "Sağlık yatırımlarında sadece 'Poliklinik', 'muayenehane' ve 'müşterek muayenehane' teşvik edilmez. Bunların dışındaki (hastane, tıp merkezi vb.) tüm sağlık yatırımları teşvik edilebilir.",
+    "past_state_directive": "Bu kural yatırımcı lehine bir değişikliktir (hastane, tıp merkezi vb. yatırımlar teşvik kapsamına alınmıştır). Talep edilmesi halinde, yürürlük tarihinden önceki başvurular için de bu yeni (lehe) direktif uygulanabilir."
+  },
+  {
+    "change_id": "ONCELIKLI_YATIRIM_OTOMOTIV_GENISLEMESI",
+    "description": "Belirli otomotiv yatırımları 'Öncelikli Yatırım' kapsamına alındı.",
+    "legal_source": "2013/4288 sayılı Karar",
+    "effective_date": "2013-02-15",
+    "end_date": null,
+    "directive": "Belirli şartları (ana sanayi için 300M TL, motor için 75M TL, aksam için 20M TL) sağlayan motorlu kara taşıtları yatırımları 'Öncelikli Yatırım' olarak sınıflandırılır.",
+    "past_state_directive": "Bu kural yatırımcı lehine bir değişikliktir. Talep edilmesi halinde, yürürlük tarihinden önceki başvurular için de bu yeni (lehe) direktif uygulanabilir ve yatırım 'Öncelikli Yatırım' olarak sınıflandırılabilir."
+  },
+  {
+    "change_id": "ONCELIKLI_YATIRIM_YERLI_MADEN_ENERJI_GENISLEMESI",
+    "description": "Belirli yerli madenlere dayalı elektrik üretimi yatırımları 'Öncelikli Yatırım' kapsamına alındı.",
+    "legal_source": "2013/4288 sayılı Karar",
+    "effective_date": "2013-02-15",
+    "end_date": null,
+    "directive": "Enerji Bakanlığı ruhsatlı bir sahada, 4-b grubundaki yerli madenleri (Linyit vb.) girdi olarak kullanan elektrik üretimi yatırımları 'Öncelikli Yatırım' olarak sınıflandırılır.",
+    "past_state_directive": "Bu kural yatırımcı lehine bir değişikliktir. Talep edilmesi halinde, yürürlük tarihinden önceki başvurular için de bu yeni (lehe) direktif uygulanabilir ve yatırım 'Öncelikli Yatırım' olarak sınıflandırılabilir."
+  },
+  {
+    "change_id": "MADDE_29_CIFTE_DESTEK_ISTISNASI",
+    "description": "Diğer kurumlardan sadece sübvansiyonlu kredi desteği alan yatırımların, faiz desteği hariç diğer desteklerden yararlanabilmesine olanak tanıyan istisna.",
+    "legal_source": "2012/4288 sayılı Karar",
+    "effective_date": "2013-02-15",
+    "end_date": null,
+    "directive": "Bir yatırım, başka bir kamu kurumundan 'sübvansiyonlu kredi' desteği alıyorsa, bu Karar kapsamındaki 'faiz desteği' HARİÇ, diğer tüm desteklerden (KDV istisnası, gümrük vergisi muafiyeti, vergi indirimi vb.) yararlanabilir. Analizde bu istisnayı mutlaka göz önünde bulundur.",
+    "past_state_directive": "Bu tarihten önce, başka bir kamu kurumundan herhangi bir destek (sübvansiyonlu kredi dahil) alan bir yatırım, bu Karar kapsamındaki hiçbir destekten yararlanamazdı. Çifte destek yasağı mutlak olarak uygulanırdı."
+  },
+  {
+    "change_id": "EK4_DOGALGAZ_SANTRAL_ISTISNASI",
+    "description": "Doğalgaza dayalı elektrik üretim yatırımlarına, belirli lisanslar için istisna getirilmesi.",
+    "legal_source": "2013/4288 sayılı Karar",
+    "effective_date": "2013-02-15",
+    "end_date": null,
+    "directive": "Yatırımcı lehine bir istisna olarak, bir doğalgaz elektrik üretim yatırımını analiz ederken, Enerji Piyasası Düzenleme Kurumu (EPDK) lisans tarihini kontrol et. Eğer lisans tarihi 19/06/2012'den önce ise, bu yatırım teşvik edilebilir (kazanılmış hak). Eğer lisans bu tarihten sonra alınmışsa veya mevcut değilse, yatırım teşvik edilmeyen yatırımlar listesindedir.",
+    "past_state_directive": "Bu tarihten önce, doğalgaza dayalı elektrik üretimi yatırımlarının tamamı, lisans tarihine bakılmaksızın, teşvik edilmeyen yatırımlar kapsamındaydı."
+  },
+  {
+    "change_id": "EK4_KOMUR_IHRACAT_YASAGI_KALDIRILMASI",
+    "description": "Kömür istihracına yönelik yatırımları teşvik dışı bırakan kuralın yürürlükten kaldırılması.",
+    "legal_source": "2013/4763 sayılı Karar",
+    "effective_date": "2013-30-05",
+    "end_date": null, 
+    "directive": "Bu tarihten itibaren, kömür istihracına yönelik yatırımlar artık 'teşvik edilmeyen yatırımlar' listesinde DEĞİLDİR. Bu nedenle, bu tür yatırımlar, diğer şartları (bölge, asgari yatırım tutarı vb.) sağlamaları halinde genel veya bölgesel teşvik sistemi kapsamında desteklenebilir.",
+    "past_state_directive": "Bu tarihten önce, kömür istihracına yönelik yatırımlar teşvik edilmezdi. Tek istisna, BM Avrupa Ekonomik Komisyonu'na göre 'düşük C' kategorisindeki kömürler için yapılan yatırımlardı; bunlar teşvik edilebilirdi."
+  },
+  {
+    "change_id": "MADDE_11_FAIZ_DESTEGI_SURE_UZATIMI",
+    "description": "Stratejik yatırımlar için faiz desteği başvuru süresinin uzatılması.",
+    "legal_source": "2014/6058 sayılı Karar",
+    "effective_date": "2014-05-09",
+    "end_date": null,
+    "directive": "Stratejik yatırım teşvik belgeleri için faiz desteği başvuruları **31/12/2014** tarihine kadar yapılabilir.",
+    "past_state_directive": "Bu tarihten önce, stratejik yatırımlar için faiz desteği başvurularında son tarih **31/12/2013** idi."
+  },
+
+  {
+    "change_id": "MADDE_12_ISTIHDAM_DESTEGI_SURE_DEGISIKLIGI",
+    "description": "Büyük ölçekli ve bölgesel yatırımlarda sigorta primi işveren hissesi desteği sürelerinin yeniden düzenlenmesi.",
+    "legal_source": "2014/6058 sayılı Karar",
+    "effective_date": "2014-05-09",
+    "end_date": null,
+    "directive": "Sigorta primi işveren hissesi desteği süreleri, **31/12/2014**'e kadar başlanan yatırımlar ve **1/1/2015**'ten itibaren başlanan yatırımlar için ayrı ayrı uygulanır. Analizde bu iki ayrı tarih ayrımına göre doğru destek süresini (örn: 5. bölge için 7 yıl veya 6 yıl) belirle.",
+    "past_state_directive": "Bu tarihten önce, destek süreleri **31/12/2013**'e kadar başlanan ve **1/1/2014**'ten itibaren başlanan yatırımlar olarak ikiye ayrılıyordu."
+    },
+
+  {
+    "change_id": "MADDE_15_VERGI_INDIRIMI_SURE_UZATIMI",
+    "description": "Avantajlı vergi indirimi ve yatırıma katkı oranlarından yararlanma süresinin uzatılması.",
+    "legal_source": "2014/6058 sayılı Karar",
+    "effective_date": "2014-05-09",
+    "end_date": null,
+    "directive": "Eğer yatırım **31/12/2014** tarihine kadar (bu tarih dahil) başlamışsa, Karar'ın EK-2'sindeki daha avantajlı vergi indirimi ve yatırıma katkı oranları uygulanır.",
+    "past_state_directive": "Bu tarihten önce, bu avantajlı oranlardan yararlanmak için yatırımın **31/12/2013** tarihine kadar başlamış olması gerekiyordu."
+  },
+  {
+    "change_id": "ONCELIKLI_YATIRIM_TURIZM_DARALTILMASI",
+    "description": "Öncelikli turizm yatırımları kapsamı 'termal' turizm ile daraltıldı.",
+    "legal_source": "2014/6058 sayılı Karar",
+    "effective_date": "2014-05-09",
+    "end_date": null,
+    "directive": "Bu tarihten sonra, Kültür ve Turizm Koruma ve Gelişim Bölgelerinde sadece 'termal' nitelikteki turizm konaklama yatırımları 'Öncelikli Yatırım' sayılır.",
+    "past_state_directive": "Bu tarihten önce, 'termal' olma şartı aranmaksızın, Kültür ve Turizm Koruma ve Gelişim Bölgelerindeki tüm turizm konaklama yatırımları 'Öncelikli Yatırım' olarak değerlendirilirdi. Bu tarihten önce yapılan başvurular için kazanılmış haklar korunur."
+  },
+  {
+    "change_id": "ONCELIKLI_YATIRIM_EGITIM_GENISLETILMESI",
+    "description": "Öncelikli eğitim yatırımları kapsamı kreş ve gündüz bakımevlerini içerecek şekilde genişletildi.",
+    "legal_source": "2014/6058 sayılı Karar",
+    "effective_date": "2014-05-09",
+    "end_date": null,
+    "directive": "Özel sektör tarafından gerçekleştirilen kreş, gündüz bakımevi, okul öncesi eğitim, ilkokul, ortaokul ve lise eğitim yatırımları 'Öncelikli Yatırım' sayılır.",
+    "past_state_directive": "Bu kural yatırımcı lehine bir genişletmedir. Talep edilmesi halinde, yürürlük tarihinden önceki başvurular için de bu yeni (lehe) direktif uygulanabilir."
+  },
+  {
+    "change_id": "ONCELIKLI_YATIRIM_ENERJI_VERIMLILIGI_EKLENMESI",
+    "description": "Belirli şartları sağlayan enerji verimliliği yatırımları 'Öncelikli Yatırım' kapsamına alındı.",
+    "legal_source": "2014/6058 sayılı Karar",
+    "effective_date": "2014-05-09",
+    "end_date": null,
+    "directive": "Mevcut imalat sanayi tesislerinde, ETKB proje onaylı, yıllık min 500 TEP tüketimli, min %20 enerji tasarrufu sağlayan ve geri dönüş süresi max 5 yıl olan enerji verimliliği yatırımları 'Öncelikli Yatırım' sayılır. (EK-4'te teşvik edilmeyeceği belirtilenler hariç).",
+    "past_state_directive": "Bu tarihten önce bu tür bir yatırım 'Öncelikli Yatırım' değildi. Bu, yatırımcı lehine yeni eklenmiş bir kuraldır ve talep edilmesi halinde lehe uygulanabilir"
+  },
+  {
+    "change_id": "ONCELIKLI_YATIRIM_ATIK_ISI_EKLENMESI",
+    "description": "Atık ısıdan elektrik üretimi yatırımları 'Öncelikli Yatırım' kapsamına alındı.",
+    "legal_source": "2014/6058 sayılı Karar",
+    "effective_date": "2014-05-09",
+    "end_date": null,
+    "directive": "Bir tesisteki atık ısıdan geri kazanım yoluyla elektrik üretimi yatırımları 'Öncelikli Yatırım' sayılır. (Doğal gaza dayalı elektrik üretim tesisleri bu istisnanın dışındadır).",
+    "past_state_directive": "Bu tarihten önce bu tür bir yatırım 'Öncelikli Yatırım' değildi. Bu, yatırımcı lehine yeni eklenmiş bir kuraldır ve talep edilmesi halinde lehe uygulanabilir"
+  },
+  {
+    "change_id": "ONCELIKLI_YATIRIM_LNG_DEPOLAMA_EKLENMESI",
+    "description": "LNG ve yeraltı doğalgaz depolama yatırımları 'Öncelikli Yatırım' kapsamına alındı.",
+    "legal_source": "2014/6058 sayılı Karar",
+    "effective_date": "2014-05-09",
+    "end_date": null,
+    "directive": "Asgari 50 Milyon TL tutarındaki sıvılaştırılmış doğal gaz (LNG) yatırımları ve yer altı doğal gaz depolama yatırımları 'Öncelikli Yatırım' sayılır.",
+    "past_state_directive": "Bu tarihten önce bu tür bir yatırım 'Öncelikli Yatırım' değildi. Bu, yatırımcı lehine yeni eklenmiş bir kuraldır ve talep edilmesi halinde lehe uygulanabilir"
+  }, 
+  {
+    "change_id": "EK4_NISASTA_YASAGI_DARALTILMASI",
+    "description": "Teşvik edilmeyen yatırımlar listesindeki 'nişasta' ifadesi 'mısır nişastası' olarak değiştirilerek, teşvik edilmeyenlerin kapsamı daraltıldı.",
+    "legal_source": "2014/6058 sayılı Karar",
+    "effective_date": "2014-05-09",
+    "end_date": null,
+    "directive": "Teşvik edilmeyen yatırımlar listesinde 'un, irmik, yem, **mısır nişastası** ve nişasta bazlı şeker' yer almaktadır (parantez içindeki istisnalar hariç). Mısır nişastası dışındaki diğer nişasta türleri (patates, buğday vb.) için yapılan yatırımlar teşvik edilebilir.",
+    "past_state_directive": "Bu tarihten önce, 'mısır nişastası' ayrımı olmaksızın, her türlü nişasta üretimi yatırımı teşvik edilmeyen yatırımlar kapsamındaydı. Bu, yatırımcı lehine bir değişiklik olduğundan, talep edilmesi halinde lehe uygulanabilir."
+  }
+
+
+]
+

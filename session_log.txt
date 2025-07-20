@@ -1,0 +1,5 @@
+--- ANALİZ BAŞLADI ---
+--- GRAPH STATE UPDATE ---
+{'query': "Eskişehir'de, yaklaşık 423,000,000 TL yatırım bedeli olan bir soğuk hava deposu ve lojistik merkezi kurmak istiyorum. teşvik belgemi 2012 yılının October ayında tarihinde aldım. Bu şartlar altında devletten ne gibi teşvikler alabilirim?"}
+------------------------
+

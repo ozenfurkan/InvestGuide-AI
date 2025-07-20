@@ -1,0 +1,25 @@
+{
+    "ekNo": "EK-3",
+    "başlık": "BÜYÜK ÖLÇEKLİ YATIRIMLAR",
+    "yatırımlar": [
+      { "Sıra No": 1, "Yatırım Konusu": "Rafine Edilmiş Petrol Ürünleri İmalatı", "Asgari Sabit Yatırım Tutarı (Milyon TL)": 1000 },
+      { "Sıra No": 2, "Yatırım Konusu": "Kimyasal Madde ve Ürünlerin İmalatı", "Asgari Sabit Yatırım Tutarı (Milyon TL)": 200 },
+      { "Sıra No": 3, "Yatırım Konusu": "Liman ve Liman Hizmetleri Yatırımları", "Asgari Sabit Yatırım Tutarı (Milyon TL)": 200 },
+      {
+        "Sıra No": 4,
+        "Yatırım Konusu": "Motorlu Kara Taşıtlarının İmalatı Yatırımları:",
+        "Alt Yatırımlar": [
+          { "Bent": "a", "Konu": "Motorlu Kara Taşıtları Ana Sanayi Yatırımları", "Tutar (Milyon TL)": 200 },
+          { "Bent": "b", "Konu": "Motorlu Kara Taşıtları Yan Sanayi Yatırımları", "Tutar (Milyon TL)": 50 }
+        ]
+      },
+      { "Sıra No": 5, "Yatırım Konusu": "Demiryolu ve Tramvay Lokomotifleri ve/veya Vagon İmalatı Yatırımları", "Asgari Sabit Yatırım Tutarı (Milyon TL)": null },
+      { "Sıra No": 6, "Yatırım Konusu": "Transit Boru Hattıyla Taşımacılık Hizmetleri Yatırımları", "Asgari Sabit Yatırım Tutarı (Milyon TL)": null },
+      { "Sıra No": 7, "Yatırım Konusu": "Elektronik Sanayi Yatırımları", "Asgari Sabit Yatırım Tutarı (Milyon TL)": null },
+      { "Sıra No": 8, "Yatırım Konusu": "Tıbbi Alet, Hassas ve Optik Aletler İmalatı Yatırımları", "Asgari Sabit Yatırım Tutarı (Milyon TL)": null },
+      { "Sıra No": 9, "Yatırım Konusu": "İlaç Üretimi Yatırımları", "Asgari Sabit Yatırım Tutarı (Milyon TL)": 50 },
+      { "Sıra No": 10, "Yatırım Konusu": "Hava ve Uzay Taşıtları ve/veya Parçaları İmalatı Yatırımları", "Asgari Sabit Yatırım Tutarı (Milyon TL)": 50 },
+      { "Sıra No": 11, "Yatırım Konusu": "Makine (Elektrikli Makine ve Cihazlar Dahil) İmalatı Yatırımları", "Asgari Sabit Yatırım Tutarı (Milyon TL)": null },
+      { "Sıra No": 12, "Yatırım Konusu": "Metal Üretimine Yönelik Yatırımlar:\n[Maden Kanununda belirtilen IV/C grubu metalik madenlerin cevher ve/veya konsantresinden nihai metal üretimine yönelik yatırımlar (bu tesislere entegre madencilik yatırımları dahil)]", "Asgari Sabit Yatırım Tutarı (Milyon TL)": null }
+    ]
+  }

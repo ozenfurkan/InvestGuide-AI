@@ -1,0 +1,136 @@
+{
+    "ekNo": "EK-4",
+    "başlık": "TEŞVİK EDİLMEYECEK VEYA TEŞVİKİ BELİRLİ ŞARTLARA BAĞLI YATIRIM KONULARI",
+    "bölümler": [
+      {
+        "bölümNo": "I",
+        "başlık": "TEŞVİK EDİLMEYECEK YATIRIMLAR",
+        "kategoriler": [
+          {
+            "kategoriNo": "A",
+            "başlık": "TARIM VE TARIMSAL SANAYİ",
+            "konular": [
+              "Un, irmik (makarna imalatı ile entegre irmik yatırımları ve mısır irmiği yatırımları hariç), yem (balık unu, balık yağı, balık yemi ve entegre hayvancılık üretimi içindeki yem üretimi hariç), nişasta ve nişasta bazlı şeker.",
+              "Dışarıya yemek hizmeti sunan işletmeler (hazır yemek).",
+              "Küp şeker.",
+              "5 dekarın altındaki seracılık yatırımları.",
+              "Bitkisel üretim (5 dekar ve üstü seracılık yatırımları, kültür mantarı yetiştiriciliği ve entegre hayvancılık yatırımları içerisindeki yem bitkileri yetiştiriciliği hariç).",
+              "Bölgesel uygulamalar kapsamında teşvik edilecek entegre hayvancılık yatırımları ve şartlı desteklenecek hayvancılık yatırımları dışındaki hayvancılık yatırımları.",
+              "5 ton/gün ve altında üretim kapasitesine sahip süt işleme yatırımları."
+            ]
+          },
+          {
+            "kategoriNo": "B",
+            "başlık": "İMALAT, ENERJİ VE MADENCİLİK YATIRIMLARI",
+            "konular": [
+              "Tuğla ve kiremit üretimine yönelik modernizasyon cinsi dışındaki yatırımlar.",
+              "Kütlü pamuk işleme yatırımları.",
+              "İplik ve dokuma (yün ipliği, 15 Milyon Türk Lirasının üzerindeki iplik yatırımları, 5 Milyon Türk Lirasının üzerindeki dokuma yatırımları, akıllı ve çok fonksiyonlu teknik tekstil, halı, tafting, dokunmamış/örülmemiş kumaş ve çuval üretimine yönelik yatırımlar hariç) konularında modernizasyon yatırımları dışındaki yatırımlar.",
+              "Doğalgaza dayalı elektrik üretimi yatırımları.",
+              "Rödovans sözleşmesine istinaden gerçekleştirilecek madencilik yatırımları (Kamu kurum ve kuruluşları veya bunların doğrudan iştirakleri ile yapılan anlaşmalara istinaden kamuya ait maden sahalarında yapılan madencilik yatırımları bu kapsamda değerlendirilmez).",
+              "Kömür istihracına yönelik yatırımlar (Birleşmiş Milletler Avrupa Ekonomik Komisyonunun uluslararası kodifikasyon sistemine göre “düşük C” kategorisinde yer alan kömürler hariç).",
+              {
+                "konu": "Ek-5’de yer alan demir çelik ürünlerinin üretimine yönelik yatırımlar",
+                "açıklama": "Ancak, bu üretim konularında aşağıdaki kriterleri birlikte sağlayan işletmeler sadece genel teşvik sisteminden desteklenebilir:",
+                "şartlar": [
+                  "a) Ortaklık yapısındaki bir veya birden fazla tüzel kişinin veya kamu kurum ve kuruluşunun hisseleri toplamının %25 veya daha fazla olmaması.",
+                  "b) Başka bir işletmenin sermayesinin %25 veya daha fazlasına sahip olmaması.",
+                  "c) Çalışan sayısı yıllık 250 kişiden az olması.",
+                  "ç) Yıllık net satış hasılatı 50 milyon Avro veya mali bilançosu değeri 43 milyon Avro karşılığı Türk Lirasını aşmaması."
+                ],
+                "ekNot": "Bu kriterler, 2009/15199 sayılı Bakanlar Kurulu Kararına istinaden düzenlenen belgelere de uygulanabilir."
+              },
+              {
+                "konu": "Sentetik elyaf veya sentetik ipliğin ekstrüzyon yöntemiyle üretimine yönelik modernizasyon cinsi dışındaki yatırımlar",
+                "açıklama": "Ancak, söz konusu modernizasyon yatırımları ile 7 nci maddede belirtilen kriterleri birlikte sağlayan işletmelerin sentetik elyaf veya sentetik ipliğin ekstrüzyon yöntemiyle üretimine yönelik yatırımları sadece genel teşvik sisteminden desteklenebilir."
+              }
+            ]
+          },
+          {
+            "kategoriNo": "C",
+            "başlık": "HİZMETLER SEKTÖRÜ",
+            "konular": [
+              "İlkokul, ortaokul, lise, yüksekokul, üniversite, yükseköğretim ve teknik ve mesleki öğretim dışında kalan eğitim yatırımları ile yetişkinlerin eğitilmesine yönelik (kurslar, dershaneler vb) yatırımlar.",
+              "Hastane yatırımları, tıp merkezleri, diyaliz merkezleri, tahlil laboratuvarları ve manyetik görüntüleme merkezleri dışında kalan sağlık yatırımları.",
+              "Turizm yatırım/işletme belgeli oteller, butik oteller, tatil köyleri, özel konaklama tesisleri ve dağ/yayla evleri dışında kalan turizm konaklama tesisleri.",
+              "Ülke genelinde yayım yapan günlük gazete basım hizmetleri, televizyon/radyo yayıncılığı ve baskı, basım, matbaa ve ambalaj yatırımları dışındaki basın ve yayın yatırımları.",
+              "Sinema salonu yatırımları.",
+              "Müteahhitlik hizmetleri ve konut üretimine yönelik yatırımlar.",
+              "Yolcu ve yük taşımacılığına yönelik otobüs ile çekici ve treyler yatırımları (Belediyelerin yapacakları yatırımlar hariç).",
+              "Hipermarket, ticaret merkezi, alışveriş merkezi ve otopark yatırımları dâhil toptan ve perakende ticarete yönelik yatırımlar.",
+              "Kara taşıtları bakım, onarım ve servis istasyonu yatırımları.",
+              "Petrol ürünleri (LPG dâhil) dağıtım yatırımları, akaryakıt istasyonu yatırımları.",
+              "Karayolları dinlenme tesisi yatırımları, mola noktaları.",
+              "Lokantalar, kafeteryalar, eğlence yerleri, günübirlik tesisler, termal kür tesisleri, sağlıklı yaşam tesisleri, yüzme havuzları.",
+              "Yat ithali yatırımları.",
+              "Taşıt kiralama yatırımları.",
+              "Halı yıkama yatırımları.",
+              "Gayrimenkul kiralama ve iş faaliyetleri (Yazılım, AR-GE faaliyetleri, veri tabanı faaliyetleri, veri işleme, teknik test ve analiz faaliyetleri, ambalajlama faaliyetleri ile gösteri, sergi ve kongre faaliyetleri hariç).",
+              "Finansal kiralama faaliyetleri hariç olmak üzere mali aracı kuruluşların yatırımları.",
+              "Kapalı alanı 500 m2’nin altında olan soğuk hava deposu yatırımları.",
+              "Komple yeni ve tevsi niteliğindeki tersane yatırımları."
+            ]
+          }
+        ]
+      },
+      {
+        "bölümNo": "II",
+        "başlık": "TEŞVİKİ BELİRLİ ŞARTLARA BAĞLI YATIRIM KONULARI",
+        "kategoriler": [
+          {
+            "kategoriNo": "A",
+            "başlık": "TARIM VE TARIMSAL SANAYİ",
+            "konular": [
+              "Süt yönlü büyükbaş entegre yatırımlarında asgari 150 büyükbaş.",
+              "Et yönlü büyükbaş entegre yatırımlarında asgari 150 büyükbaş.",
+              "Damızlık büyükbaş entegre hayvan yetiştiriciliğinde (et/süt yönlü) asgari 150 büyükbaş/dönem.",
+              "Kanatlı entegre yatırımlarında 100.000 adet/dönem.",
+              "Süt ve et yönlü küçükbaş entegre yatırımlarında (damızlık dâhil) 1.000 küçükbaş/dönem şartı aranır."
+            ]
+          },
+          {
+            "kategoriNo": "B",
+            "başlık": "İMALAT SANAYİ",
+            "konular": [
+              "Düz örme konusunda yapılacak yatırımlarda toplam makine sistem sayısının asgari 60 olması şartı aranır.",
+              "Hazır beton yatırımlarında asgari 100 m3/saat ve üzerindeki komple yeni yatırımlar için teşvik belgesi düzenlenebilir."
+            ]
+          },
+          {
+            "kategoriNo": "C",
+            "başlık": "HİZMETLER SEKTÖRÜ",
+            "konular": [
+              {
+                "konu": "Bir veya birkaç yerde gümrükleme ve sigortacılık hizmetlerinin de sunulduğu antrepo, elleçleme-paketleme ve otomasyon hizmetlerini birlikte içeren, asgari toplam kapalı alanı 10.000 m2 olan entegre lojistik yatırımları",
+                "şart": "Ulaştırma, Denizcilik ve Haberleşme Bakanlığından alınmış L2 belgesinin yatırım süresi sonuna kadar ibraz edilmesi kaydıyla, teşvik belgesi düzenlenebilir. Söz konusu teşvik belgeleri kapsamına yük taşımacılığına yönelik araçlar dâhil edilmez."
+              },
+              "Boru hattıyla taşımacılık, petrol ve doğalgaz ürünleri, dolum ve depolama tesisi yatırımlarında dağıtım araçları ve tüpler hariç olmak üzere, sadece sabit tesise yönelik harcamalar için teşvik belgesi düzenlenebilir.",
+              {
+                "konu": "Kültür yatırımları",
+                "şart": "Kültür ve Turizm Bakanlığından alınacak kültür belgesine istinaden teşvik belgesi düzenlenebilir. Ancak, münhasıran bu amaçla inşa edilenler dışında, yeme-içme, spor, eğlence ve satış üniteleri gibi birimler kapsama dâhil edilmez."
+              },
+              {
+                "konu": "Kültür ve Turizm Bakanlığından alınacak turizm belgesini haiz eğlence merkezi ve temalı tesis gibi konaklama içermeyen turizm yatırımları",
+                "şart": "Ancak, münhasıran bu amaçla inşa edilenler dışında, yeme-içme, spor, eğlence ve satış üniteleri gibi birimler kapsama dâhil edilmez."
+              },
+              {
+                "konu": "Kültür ve Turizm Bakanlığından alınacak Kültür veya Turizm Belgesini haiz fuar, kongre, sergi ve gösteri merkezi yatırımları",
+                "şart": "Fuar ve sergi merkezlerinde, otopark hariç asgari kapalı alanın 5000 m2, kongre merkezlerinde asgari koltuk sayısının 1000, gösteri merkezlerinde ise asgari koltuk sayısının 2500 olması şartı aranır."
+              },
+              "Spor tesisi yatırımlarında asgari 10 Milyon TL sabit yatırım şartı aranır.",
+              "Havaalanı yer hizmeti yatırımlarında teşvik belgesi kapsamına trafiğe çıkmayan ve sadece apronda kullanılan motorlu taşıtlar dâhil edilebilir. Binek otomobilleri proje kapsamına dâhil edilmez.",
+              {
+                "konu": "Havayolu işletmeciliği ve kargo taşımacılığı yatırımları",
+                "şart": "Temin edilecek uçaklarda birim başına asgari kapasitenin 50 koltuk, kargo uçaklarında ise asgari kargo kapasitesinin 30.000 kg olması şartı aranır. Faaliyet konusu bizatihi havayolu işletmeciliği ve/veya kargo taşımacılığı olan yatırımlar dışında genel amaçlı ve hava taksi işletmeciliği amaçlı yatırımlar için teşvik belgesi düzenlenmez."
+              },
+              "Uydu, telsiz, kablo vb. iletişim ortamlarından gelen haberleşme, radyo, televizyon ve veri sinyallerini birleştirip tek bir paket halinde nihai tüketiciye iletimini sağlayan hizmet yatırımlarında nihai hizmeti alanlar tarafından kullanılan yatırım malları destek unsurlarından faydalandırılmaz.",
+              "Kamu kurum ve kuruluşları, belediyeler, il özel idareleri, birlik, kooperatif vb. kuruluşların görev alanlarına yönelik olarak yapacakları yatırımlar proje bazında değerlendirilerek teşvik belgesi düzenlenebilir.",
+              "Sadece vinç hizmetlerine yönelik yatırımlarda her bir vinç için asgari 100 ton kaldırma kapasitesi aranır. 500 ton kaldırma kapasitesinin altında kullanılmış vinç ithaline izin verilmez.",
+              "Çamaşır yıkama ve kurutma yatırımlarında asgari 2 Milyon TL sabit yatırım şartı aranır.",
+              "Yat inşa yatırımlarında teşvik belgesi düzenlenebilmesi için yat boyunun asgari 24 metre olması şartı aranır."
+            ]
+          }
+        ]
+      }
+    ]
+  }

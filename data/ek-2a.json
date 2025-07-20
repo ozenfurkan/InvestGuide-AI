@@ -1,0 +1,538 @@
+{
+    "ekNo": "EK-2A",
+    "başlık": "BÖLGESEL DESTEKLERDEN FAYDALANABİLECEK SEKTÖRLER VE BÖLGELER İTİBARİYLE ASGARİ YATIRIM TUTARLARI VEYA KAPASİTELERİ",
+    "tablo": {
+      "başlıklar": [
+        "US-97 Kodu",
+        "Sektör Adı",
+        "1. Bölge",
+        "2. Bölge",
+        "3. Bölge",
+        "4. Bölge",
+        "5. Bölge",
+        "6. Bölge"
+      ],
+      "satirlar": [
+        {
+          "US-97 Kodu": "0121",
+          "Sektör Adı": "Entegre hayvancılık yatırımları (yalnızca yetiştiricilik ve/veya işleme hariç)",
+          "1. Bölge": null,
+          "2. Bölge": null,
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "0500.0.04",
+          "Sektör Adı": "Seracılık yatırımları (toplamda 5 dekar ve üzeri)",
+          "1. Bölge": null,
+          "2. Bölge": null,
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "4",
+          "Sektör Adı": "Diğer madencilik ve taş ocakçılığı (I. grup madenler ve mıcır yatırımları hariç)",
+          "1. Bölge": "2 Milyon TL",
+          "2. Bölge": "1 Milyon TL",
+          "3. Bölge": "500 Bin TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "17",
+          "Sektör Adı": "Diğer tekstil ürünleri imalatı (düz örme dışındaki iplik ve dokuma hariç)",
+          "1. Bölge": "Tekstilin desteklenmesi",
+          "2. Bölge": "Tekstilin desteklenmesi",
+          "3. Bölge": "Tekstil ürünleri modernizasyonu",
+          "4. Bölge": "Tekstil ürünleri modernizasyonu",
+          "5. Bölge": "Tekstil ürünleri modernizasyonu",
+          "6. Bölge": "Tekstil ürünleri modernizasyonu"
+        },
+        {
+          "US-97 Kodu": "5",
+          "Sektör Adı": "Giyim eşyası imalatı",
+          "1. Bölge": "Desteklenmektedir",
+          "2. Bölge": "Desteklenmektedir",
+          "3. Bölge": "1 Milyon TL'nin üzerindeki modernizasyon yatırımları",
+          "4. Bölge": "1 Milyon TL'nin üzerindeki modernizasyon yatırımları",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "18",
+          "Sektör Adı": "Deri ve bavul imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "1912 ve 1920",
+          "Sektör Adı": "Ağaç ve mantar ürünleri imalatı (mobilya hariç)",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "8",
+          "Sektör Adı": "Gıda ürünleri imalatı",
+          "1. Bölge": "1 Milyon TL",
+          "2. Bölge": "1 Milyon TL",
+          "3. Bölge": "500 Bin TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "9",
+          "Sektör Adı": "İçecek imalatı",
+          "1. Bölge": "1 Milyon TL",
+          "2. Bölge": "1 Milyon TL",
+          "3. Bölge": "500 Bin TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "10",
+          "Sektör Adı": "Tütün ürünleri imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "11",
+          "Sektör Adı": "Kağıt ve kağıt ürünleri imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "12",
+          "Sektör Adı": "Yayıncılık, basım ve çoğaltım",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "13",
+          "Sektör Adı": "Kok kömürü, rafine edilmiş petrol ürünleri imalatı",
+          "1. Bölge": "20 Milyon TL",
+          "2. Bölge": "10 Milyon TL",
+          "3. Bölge": "5 Milyon TL",
+          "4. Bölge": "2 Milyon TL",
+          "5. Bölge": "1 Milyon TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "2421",
+          "Sektör Adı": "Pestisit (haşere ilacı) ve diğer zirai kimyasal ürünlerin imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "14",
+          "Sektör Adı": "Kimyasal madde ve ürünler, suni elyaf imalatı (2421 hariç)",
+          "1. Bölge": "20 Milyon TL",
+          "2. Bölge": "10 Milyon TL",
+          "3. Bölge": "5 Milyon TL",
+          "4. Bölge": "2 Milyon TL",
+          "5. Bölge": "1 Milyon TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "15",
+          "Sektör Adı": "Kauçuk ve plastik ürünleri imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "2422",
+          "Sektör Adı": "Tıbbi ilaç ve eczacılık ürünleri imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "26",
+          "Sektör Adı": "Metalik olmayan diğer mineral ürünlerin imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "2710-2732",
+          "Sektör Adı": "Ana metal sanayi",
+          "1. Bölge": "20 Milyon TL",
+          "2. Bölge": "10 Milyon TL",
+          "3. Bölge": "5 Milyon TL",
+          "4. Bölge": "2 Milyon TL",
+          "5. Bölge": "1 Milyon TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "28",
+          "Sektör Adı": "Fabrikasyon metal ürünleri sanayi (makine ve teçhizatı hariç)",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "2911, 2912, 2913, 2914.3, 2921, 2922, 2923, 2924, 2925, 2927, 2929.1, 2929.2",
+          "Sektör Adı": "Başka yerde sınıflandırılmamış makine ve teçhizat imalatı (tarım ve ormancılık makinaları hariç)",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "2914.1, 2914.2, 2929.3",
+          "Sektör Adı": "Tarım ve ormancılık makinaları imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "2926, 2928",
+          "Sektör Adı": "Elektrik motorları, jeneratörler, transformatörler, elektrik dağıtım ve kontrol cihazları imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "293",
+          "Sektör Adı": "Büro, muhasebe ve bilgisayar makinaları imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "30",
+          "Sektör Adı": "Elektrik makine ve cihazları imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "31",
+          "Sektör Adı": "Radyo, televizyon, haberleşme teçhizatı ve cihazları imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "32",
+          "Sektör Adı": "Tıbbi alet, hassas ve optik aletler imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "33",
+          "Sektör Adı": "Saat ve saatçi eşyası imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "34",
+          "Sektör Adı": "Motorlu kara taşıtları imalatı",
+          "1. Bölge": "Motorlu kara taşıtları ana sanayi yatırımları için 200 Milyon TL, yan sanayi yatırımları için 50 Milyon TL",
+          "2. Bölge": "Motorlu kara taşıtları ana sanayi yatırımları için 200 Milyon TL, yan sanayi yatırımları için 50 Milyon TL",
+          "3. Bölge": "Motorlu kara taşıtları ana sanayi yatırımları için 100 Milyon TL, yan sanayi yatırımları için 25 Milyon TL",
+          "4. Bölge": "Motorlu kara taşıtları ana sanayi yatırımları için 50 Milyon TL, yan sanayi yatırımları için 10 Milyon TL",
+          "5. Bölge": "Motorlu kara taşıtları ana sanayi yatırımları için 50 Milyon TL, yan sanayi yatırımları için 10 Milyon TL",
+          "6. Bölge": "Motorlu kara taşıtları ana sanayi yatırımları için 50 Milyon TL, yan sanayi yatırımları için 10 Milyon TL"
+        },
+        {
+          "US-97 Kodu": "35",
+          "Sektör Adı": "Diğer ulaşım araçları imalatı",
+          "1. Bölge": "Motorlu kara taşıtları dışındaki ulaşım araçları imalatı",
+          "2. Bölge": "Motorlu kara taşıtları dışındaki ulaşım araçları imalatı",
+          "3. Bölge": "Motorlu kara taşıtları dışındaki ulaşım araçları imalatı",
+          "4. Bölge": "Motorlu kara taşıtları dışındaki ulaşım araçları imalatı",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "36",
+          "Sektör Adı": "Mobilya imalatı, başka yerde sınıflandırılmamış diğer imalatlar",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "37",
+          "Sektör Adı": "Hava taşıtları ve uzay araçları imalatı",
+          "1. Bölge": "Hava taşıtları ana sanayi için 200 Milyon TL",
+          "2. Bölge": "Hava taşıtları ana sanayi için 100 Milyon TL",
+          "3. Bölge": "Hava taşıtları ana sanayi için 50 Milyon TL",
+          "4. Bölge": "Hava taşıtları ana sanayi için 20 Milyon TL",
+          "5. Bölge": "Hava taşıtları ana sanayi için 10 Milyon TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "3591 ve 3592",
+          "Sektör Adı": "Demiryolu ve tramvay lokomotifleri ve/veya vagon imalatı",
+          "1. Bölge": "4 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "1 Milyon TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "3510 ve 3521",
+          "Sektör Adı": "Gemi inşa ve onarımı (sadece yat ve yüzer tesisler hariç)",
+          "1. Bölge": "5 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "40",
+          "Sektör Adı": "Elektrik üretimi, iletimi ve dağıtımı",
+          "1. Bölge": "5 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "401",
+          "Sektör Adı": "Elektrik üretimi",
+          "1. Bölge": "5 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "41",
+          "Sektör Adı": "Su arıtma, dağıtımı ve drenaj hizmetleri",
+          "1. Bölge": "5 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "5510.1, 5510.3.02",
+          "Sektör Adı": "Oteller",
+          "1. Bölge": "3 yıldız ve üzeri",
+          "2. Bölge": "3 yıldız ve üzeri",
+          "3. Bölge": "3 yıldız ve üzeri",
+          "4. Bölge": "3 yıldız ve üzeri",
+          "5. Bölge": "3 yıldız ve üzeri",
+          "6. Bölge": "3 yıldız ve üzeri"
+        },
+        {
+          "US-97 Kodu": "5510.5.01, 5510.9.04",
+          "Sektör Adı": "Moteller",
+          "1. Bölge": "3 yıldız ve üzeri",
+          "2. Bölge": "3 yıldız ve üzeri",
+          "3. Bölge": "3 yıldız ve üzeri",
+          "4. Bölge": "3 yıldız ve üzeri",
+          "5. Bölge": "3 yıldız ve üzeri",
+          "6. Bölge": "3 yıldız ve üzeri"
+        },
+        {
+          "US-97 Kodu": "70",
+          "Sektör Adı": "Emlakçılık ve kiralama hizmetleri",
+          "1. Bölge": "Desteklenmemektedir",
+          "2. Bölge": "Desteklenmemektedir",
+          "3. Bölge": "Desteklenmemektedir",
+          "4. Bölge": "Desteklenmemektedir",
+          "5. Bölge": "Desteklenmemektedir",
+          "6. Bölge": "Desteklenmemektedir"
+        },
+        {
+          "US-97 Kodu": "72",
+          "Sektör Adı": "Bilgi teknolojisi ve ilgili faaliyetler",
+          "1. Bölge": "1 Milyon TL",
+          "2. Bölge": "1 Milyon TL",
+          "3. Bölge": "500 Bin TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "80",
+          "Sektör Adı": "Eğitim hizmetleri (okul öncesi eğitim hizmetleri dahil)",
+          "1. Bölge": "1 Milyon TL",
+          "2. Bölge": "1 Milyon TL",
+          "3. Bölge": "500 Bin TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "8511",
+          "Sektör Adı": "Hastane yatırımı, huzurevi",
+          "1. Bölge": "Hastane: 10 Milyon TL / Huzurevi: 1 Milyon TL",
+          "2. Bölge": "Hastane: 5 Milyon TL / Huzurevi: 500 Bin TL",
+          "3. Bölge": "Hastane: 2 Milyon TL / Huzurevi: 200 Bin TL",
+          "4. Bölge": "Hastane: 1 Milyon TL / Huzurevi: 100 Bin TL",
+          "5. Bölge": "Hastane: 500 Bin TL / Huzurevi: 50 Bin TL",
+          "6. Bölge": "Hastane: 500 Bin TL / Huzurevi: 50 Bin TL"
+        },
+        {
+          "US-97 Kodu": "8512",
+          "Sektör Adı": "Diğer sağlık hizmetleri",
+          "1. Bölge": "1 Milyon TL",
+          "2. Bölge": "1 Milyon TL",
+          "3. Bölge": "500 Bin TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "90",
+          "Sektör Adı": "Atık ve çöp toplama ve bertaraf hizmetleri",
+          "1. Bölge": "5 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "92",
+          "Sektör Adı": "Kültür, eğlence, spor ve diğer eğlence faaliyetleri",
+          "1. Bölge": "1 Milyon TL",
+          "2. Bölge": "1 Milyon TL",
+          "3. Bölge": "500 Bin TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "45",
+          "Sektör Adı": "İnşaat",
+          "1. Bölge": "5 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "46",
+          "Sektör Adı": "Kara taşımacılığı",
+          "1. Bölge": "Desteklenmemektedir",
+          "2. Bölge": "Desteklenmemektedir",
+          "3. Bölge": "Desteklenmemektedir",
+          "4. Bölge": "Desteklenmemektedir",
+          "5. Bölge": "Desteklenmemektedir",
+          "6. Bölge": "Desteklenmemektedir"
+        },
+        {
+          "US-97 Kodu": "47",
+          "Sektör Adı": "Deniz ve kıyı taşımacılığı",
+          "1. Bölge": "5 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "48",
+          "Sektör Adı": "Hava taşımacılığı",
+          "1. Bölge": "1 Milyon TL",
+          "2. Bölge": "1 Milyon TL",
+          "3. Bölge": "500 Bin TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "49",
+          "Sektör Adı": "Depolama ve destekleyici taşımacılık faaliyetleri",
+          "1. Bölge": "5 Milyon TL",
+          "2. Bölge": "2 Milyon TL",
+          "3. Bölge": "1 Milyon TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        },
+        {
+          "US-97 Kodu": "50",
+          "Sektör Adı": "Posta ve kurye faaliyetleri",
+          "1. Bölge": "1 Milyon TL",
+          "2. Bölge": "1 Milyon TL",
+          "3. Bölge": "500 Bin TL",
+          "4. Bölge": "500 Bin TL",
+          "5. Bölge": "500 Bin TL",
+          "6. Bölge": "500 Bin TL"
+        }
+      ]
+    }
+  }

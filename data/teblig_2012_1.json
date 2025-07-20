@@ -1,0 +1,933 @@
+{
+    "başlık": "YATIRIMLARDA DEVLET YARDIMLARI HAKKINDA KARARIN UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2012/1)",
+    "maddeler": [
+      {
+        "maddeNo": "1",
+        "başlık": "Amaç",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Bu Tebliğ’in amacı, 15/6/2012 tarihli ve 2012/3305 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yatırımlarda Devlet Yardımları Hakkında Kararın uygulanmasına ilişkin usul ve esasları tespit etmektir.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "2",
+        "başlık": "Tanımlar",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Yatırımlarda Devlet Yardımları Hakkında Kararda yer alan tanımlara ek olarak bu Tebliğ’de geçen;",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "Bölgeler: Kararda belirtilen bölgeleri,"
+              },
+              {
+                "bentNo": "b",
+                "metin": "Entegrasyon: Mal ve hizmet üreten tesislerin mevcut üretim hatlarında elde edilen nihai ürüne bütünleyici nitelikte ara malı verecek ve/veya üretilmekte olan nihai ürünü ara malı olarak kullanabilecek şekilde, mevcut tesise ileri ve/veya geriye doğru entegre olan, yatırımın konusu ve projenin özelliği dikkate alınarak kaideten aynı il sınırları içinde veya aynı yerde ve aynı tesis bünyesinde olan yatırımları,"
+              },
+              {
+                "bentNo": "c",
+                "metin": "İşletmeye geçiş tarihi: Yatırım süresinin (ek süre dahil) bitiş tarihini veya bu tarihten önce tamamlama vizesi için müracaat edilmiş ise müracaat tarihini,"
+              },
+              {
+                "bentNo": "ç",
+                "metin": "Karar: 15/6/2012 tarihli ve 2012/3305 sayılı Bakanlar Kurulu Kararını,"
+              },
+              {
+                "bentNo": "d",
+                "metin": "Komple yeni yatırım: Mal ve hizmet üretimine yönelik olarak ana makine ve teçhizat ile yardımcı tesisleri içeren, gerektiğinde arazi-arsa ve bina-inşaat harcamalarını da ihtiva eden, yatırımın yapılacağı yerde aynı üretim konusunda mevcut tesisi veya mevcut tesisi ile altyapı bütünlüğü bulunmayan yatırımları,"
+              },
+              {
+                "bentNo": "e",
+                "metin": "Modernizasyon: Mevcut tesislerin üretim hatlarında teknik ve/veya ekonomik ömrünü tamamlamış makine ve teçhizata uygun parçaların eklenmesini veya mevcut makine ve teçhizatın yenileri ile değiştirilmesini, tesiste eksik kalmış bölümlerin tamamlanmasını, nihai ürünün doğrudan kalitesinin yükseltilmesini veya modelinin değiştirilmesini içeren yatırımları,"
+              },
+              {
+                "bentNo": "f",
+                "metin": "Oda: Türkiye Odalar ve Borsalar Birliğine bağlı ticaret odalarını, ticaret ve sanayi odalarını ve sanayi odalarını,"
+              },
+              {
+                "bentNo": "g",
+                "metin": "Tevsi: Mevcut bir yatırıma üretim hattı veya makine ve teçhizat ilavesiyle kapasitenin artırılmasına yönelik olan ve mevcut tesis ile alt yapı müşterekliği oluşturarak bir bütün teşkil eden yatırımları,"
+              },
+              {
+                "bentNo": "ğ",
+                "metin": "Ürün çeşitlendirme: Mevcut tesisler ile altyapı müşterekliği olan, aynı işletmede mevcut makine ve teçhizata yapılacak ilave yatırımla farklı bir nihai ürün elde edilmesine yönelik yatırımları,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "maddeNo": "3",
+        "başlık": "Teşvik belgesi",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Teşvik belgesi, yatırımın karakteristik değerlerini ihtiva eden, yatırımın bu değerler ve tespit edilen şartlara uygun olarak gerçekleştirilmesi halinde üzerinde kayıtlı destek unsurlarından istifade imkanı sağlayan bir belge olup Kararın amaçlarına uygun olarak gerçekleştirilecek yatırımlar için düzenlenir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Teşvik belgesinin düzenlenmiş olması teşvik belgesi kapsamında gerçekleştirilecek yatırımlarla ilgili olarak diğer mevzuat gereği kamu kurum ve kuruluşlarından alınması gerekli izin ve ruhsat gibi belgelerin verilmesi gerekliliğine mesnet teşkil etmeyeceği gibi söz konusu belgelerin temin edilmesi gerekliliğini de ortadan kaldırmaz.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "4",
+        "başlık": "Müracaat",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Gerçek kişiler, adi ortaklıklar, sermaye şirketleri, kooperatifler, birlikler, iş ortaklıkları, kamu kurum ve kuruluşları (genel ve özel bütçeli kurum ve kuruluşlar, il özel idareleri, belediyeler ve kamu iktisadi teşebbüsleri ile bunların sermaye bileşimindeki hisse oranları yüzde elliyi geçen kurum ve kuruluşlar) ve kamu kuruluşu niteliğindeki meslek kuruluşları, dernekler ve vakıflar ile yurt dışındaki yabancı şirketlerin Türkiye’deki şubeleri teşvik belgesi düzenlenmesi için müracaat edebilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Kuruluş süreci tamamlanmamış tüzel kişiler adına yapılacak teşvik belgesi müracaatları değerlendirmeye alınmaz.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "5",
+        "başlık": "Müracaat mercii",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Teşvik belgesi düzenlenebilmesi için Bakanlığa müracaat edilir. Ancak, genel teşvik uygulamaları kapsamında yer alan, sabit yatırım tutarı onmilyon Türk Lirasını aşmayan ve EK-4’te belirtilen yatırımlar için firmanın tercihine bağlı olarak yatırımın yapılacağı yerdeki yerel birimlere de müracaat edilebilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Teşvik belgelerinin geçerlilik süresi içerisindeki işlemlerle ilgili müracaatlar, teşvik belgesi müracaatını değerlendiren ilgili kuruma yapılır. Müracaatlar, bu Tebliğde belirtilen esaslar çerçevesinde değerlendirilerek ilgili merci tarafından sonuçlandırılır. Ancak devir, satış, ihraç, kiralama ve yatırımcı talebine istinaden yapılan iptaller dışındaki teşvik belgesi iptali işlemlerine ilişkin müracaatlar ile yatırım konusu değişikliği ve yatırımın nakli konusundaki talepler Genel Müdürlüğün görüşü alınarak sonuçlandırılır.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "6",
+        "başlık": "Teşvik belgesi müracaatında aranacak belgeler",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Teşvik belgesi düzenlenebilmesi için yapılacak müracaatlarda aşağıda belirtilen belgeler aranır.",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "Yatırımcıyı temsil ve ilzama yetkili kişi veya kişilerce imzalı müracaat dilekçesi."
+              },
+              {
+                "bentNo": "b",
+                "metin": "Yatırımcıyı temsil ve ilzama yetkili kişilere ait noter tasdikli imza sirküleri, kamu kurumları ve şahıs şirketleri ile gerçek kişiler için imza beyannamesi."
+              },
+              {
+                "bentNo": "c",
+                "metin": "EK-1’deki örneğe uygun olarak hazırlanmış, her sayfası yatırımcıyı temsil ve ilzama yetkili kişi veya kişilerce imzalı ve kaşeli yatırım bilgi formu ve taahhütname ile makine ve teçhizat listeleri."
+              },
+              {
+                "bentNo": "ç",
+                "metin": "Bakanlığa yapılacak müracaatlarda, dörtyüz Türk Lirası tutarındaki meblağın Bakanlık Döner Sermaye İşletmesine ait EK-9’da belirtilen hesaba yatırıldığına dair belge, müracaatın yerel birimlere yapılması durumunda, yukarıda belirtilen meblağın yüz Türk Lirası tutarındaki kısmının ilgili yerel birim hesabına yatırıldığına, bakiye kısmının ise Bakanlık Döner Sermaye İşletmesi hesabına yatırıldığına dair belge."
+              },
+              {
+                "bentNo": "d",
+                "metin": "Firmanın ortaklık yapısı, sermaye miktarı ve faaliyet konuları açısından nihai durumunu gösterir Türkiye Ticaret Sicili Gazetesi veya Türkiye Esnaf ve Sanatkarlar Sicil Gazetesi aslı veya noterden veya sicil merciinden tasdikli örneği."
+              },
+              {
+                "bentNo": "e",
+                "metin": "Kamu kurum ve kuruluşları tarafından yapılacak müracaatlar hariç olmak üzere, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu uyarınca Türkiye genelinde Sosyal Güvenlik Kurumuna muaccel olmuş prim ve idari para cezası borçlarının bulunmadığına veya tecil ve/veda taksitlendirildiğine ya da yapılandırıldığına ve yapılandırmanın bozulmadığına dair Sosyal Güvenlik Kurumunun ilgili birimlerinden alınacak yazı veya Kurumun elektronik bilgi iletişim ortamından alınacak barkodlu çıktı."
+              },
+              {
+                "bentNo": "f",
+                "metin": "9/8/1983 tarihli ve 2872 sayılı Çevre Kanununa istinaden, sadece 17/7/2008 tarihli ve 26939 sayılı Resmî Gazete’de yayımlanan Çevresel Etki Değerlendirmesi Yönetmeliği eki listelerde yer alan “Çevresel Etki Değerlendirmesi Olumlu Kararı” veya “Çevresel Etki Değerlendirmesi Gerekli Değildir Kararı” şartı aranması gereken yatırım konuları için Çevre ve Şehircilik Bakanlığı’ndan alınan Karar ve/veya Karara ilişkin yazı."
+              },
+              {
+                "bentNo": "g",
+                "metin": "Teşvik belgesi talebinde bulunulmadan önce yatırımın karakteristiğine bağlı olarak ilgili mevzuatı gereği diğer kamu kurum ve kuruluşlarından alınması gereken ve EK-2’de belirtilen bilgi ve belgeler."
+              },
+              {
+                "bentNo": "ğ",
+                "metin": "Stratejik yatırımlar için ayrıca, yatırım konusu ile ilgili olarak sektörel, mali ve teknik analizlerin yanında 10 uncu maddede belirtilen kriterlerin her birinin yerine getirildiğini tevsik eden bilgi, belge, hesap ve tabloları içeren fizibilite raporu."
+              },
+              {
+                "bentNo": "h",
+                "metin": "Yatırımın sektörüne, büyüklüğüne veya teşvik uygulamalarına bağlı olarak Genel Müdürlükçe talep edilebilecek diğer bilgi ve belgeler."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "maddeNo": "7",
+        "başlık": "Teşvik belgesi müracaatının değerlendirilmesi",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Teşvik belgesi düzenlenmesi talep edilen yatırım projelerinin, makro ekonomik politikalar, arz-talep dengesi, sektörel, mali ve teknik yönden yapılacak değerlendirme ve gerektiğinde ilgili kurum, kurul ve kuruluşlardan alınacak görüşler sonucunda uygun bulunması halinde, yatırıma ait teşvik belgesi ile ithal ve yerli makine ve teçhizat listeleri Genel Müdürlükçe onaylanır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Yerel birimlere yapılan müracaatlarla ilgili olarak yerel birimler, yapılan değerlendirme sonucunda uygun görülen yatırım projeleri için;",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "Yapılan müracaata istinaden düzenlenen ve yerel birim yetkililerinin paraf ve imzalarını haiz yatırım projesi değerlendirme formunu,"
+              },
+              {
+                "bentNo": "b",
+                "metin": "Yerel birimce onaylı üçer nüsha teşvik belgesi ve eki makine ve teçhizat listelerini,"
+              }
+            ]
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Genel Müdürlüğe gönderirler. Genel Müdürlükçe de uygun görülen yatırımlara ilişkin teşvik belgeleri onaylanarak bir nüshası muhafaza edilmek, bir nüshası da yatırımcıya verilmek üzere iki nüshası ilgili yerel birime iletilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "4",
+            "metin": "Yerel birimin yaptığı değerlendirme sonucunda uygun görülmeyen yatırım projeleri ile ilgili ihtilaflı durumlarda Genel Müdürlüğün görüşü doğrultusunda işlem yapılır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "5",
+            "metin": "Yatırım bilgi formunda yer alan ve teşvik belgesinin düzenlenmesine mesnet teşkil edecek bilgilerin eksik ve/veya çelişkili olması halinde, yatırımcının müracaatı değerlendirmeye alınmaz. Bu durumun giderilmesine yönelik müracaatlar, en son müracaatın yapıldığı tarihte yürürlükte bulunan mevzuat hükümleri çerçevesinde değerlendirilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "6",
+            "metin": "Müracaat ekinde ibraz edilen bilgi ve belgelerin doğruluğundan yatırımcılar sorumlu olup, yatırımın herhangi bir aşamasında aksinin tespiti halinde, Genel Müdürlükçe teşvik belgesi iptal edilebileceği gibi belge iptalini gerektirmeyen durumlarda belge kapsamında sağlanan desteklerden bir kısmı müeyyide uygulanmak suretiyle geri alınır.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "8",
+        "başlık": "Teşvik belgesi kapsamında değerlendirilmeyen harcamalar",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Müracaat tarihinden önce gerçekleştirilmiş bulunan yatırım harcamaları teşvik belgesi kapsamında değerlendirilmez.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Teşvik belgesi kapsamında;",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "Kararın 9 uncu maddesinin birinci fıkrasında belirtilenler hariç olmak üzere ham madde, ara malı ve işletme malzemesi,"
+              },
+              {
+                "bentNo": "b",
+                "metin": "Kullanılmış yerli makine ve teçhizat,"
+              },
+              {
+                "bentNo": "c",
+                "metin": "Karayolu nakil vasıtaları ve her türlü binek araçları (sağlık ve belediye hizmetlerinde kullanılan araçlar, trafiğe çıkamayacak nitelikte olup apron veya limanda kullanılan araçlar ve madencilik ve hazır beton yatırımlarında kullanılan araçlar ile Kararın 9 uncu maddesinin yedinci fıkrasında belirtilen araçlar hariç),"
+              },
+              {
+                "bentNo": "ç",
+                "metin": "Havayolu ile yük ve/veya yolcu taşımacılığına yönelik yatırımlar dışındaki diğer yatırımlar için uçak ve helikopter,"
+              },
+              {
+                "bentNo": "d",
+                "metin": "Porselenden, seramikten ve camdan mamul sofra ve mutfak eşyası,"
+              }
+            ]
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "değerlendirmeye alınmaz.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "4",
+            "metin": "Bu maddenin ikinci fıkrasında belirtilenler dışında, teşvik belgesi kapsamında değerlendirilmeyecek harcamalar sektörel özellikler dikkate alınarak proje bazında belirlenir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "5",
+            "metin": "Teşvik belgelerine ait ithal ve yerli makine ve teçhizat listelerinde inşaat malzemelerine yer verilmez.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "9",
+        "başlık": "Yatırım cinsleri",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Teşvik belgeleri kapsamında yapılacak yatırım cinsleri komple yeni, tevsi, modernizasyon, ürün çeşitlendirme ve entegrasyondan oluşur.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Komple yeni, tevsi, modernizasyon ve ürün çeşitlendirme cinslerindeki yatırımların, aynı işletmede veya aynı organize sanayi bölgesinde olması gerekir. Bu hüküm, ilgili olduğu kararlardaki lehe gelen hükümler saklı kalmak kaydı ile daha önceki kararlara göre düzenlenen teşvik belgeleri kapsamı yatırımlara da uygulanır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Hazır giyim yatırımlarında, mevcut tesislerde makine ve teçhizat ilavesi nedeniyle kapasite artışının yüzde yüzü geçmesi halinde bu yatırımlar komple yeni yatırım olarak değerlendirilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "4",
+            "metin": "Entegre hayvancılık yatırımlarında aşağıda belirtilen kriterler aranır.",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "Süt yönlü büyükbaş/küçükbaş hayvan yetiştiriciliği yatırımlarında, yetiştiricilik ve süt mamulleri üretimi başlangıç olmak kaydıyla, proje bazında yem ünitesi (yem bitkileri yetiştiriciliği ve/veya yem üretimi) ve/veya soğuk hava deposu."
+              },
+              {
+                "bentNo": "b",
+                "metin": "Et yönlü büyükbaş/küçükbaş besicilik yatırımlarında, yetiştiricilik ve kesimhane başlangıç olmak kaydıyla, soğuk hava deposu ve/veya proje bazında yem ünitesi (yem bitkileri yetiştiriciliği ve/veya yem üretimi) ve/veya et mamulleri üretimi."
+              },
+              {
+                "bentNo": "c",
+                "metin": "Damızlık büyükbaş/küçükbaş hayvan yetiştiriciliği yatırımlarında, yetiştiricilik ve proje bazında yem ünitesi (yem bitkileri yetiştiriciliği ve/veya yem üretimi)."
+              },
+              {
+                "bentNo": "ç",
+                "metin": "Damızlık kanatlı yetiştiriciliği yatırımlarında, damızlık tavuk veya hindi yetiştiriciliği ve kuluçkahane ile proje bazında yem üretimi."
+              },
+              {
+                "bentNo": "d",
+                "metin": "Et yönlü kanatlı yetiştiriciliği yatırımlarında, hindi veya et yönlü tavuk yetiştiriciliği ve kesimhane başlangıç olmak kaydıyla, ileri işleme ve/veya soğuk hava deposu ve/veya yem tesisi."
+              },
+              {
+                "bentNo": "e",
+                "metin": "Yumurta yönlü kanatlı yetiştiriciliği yatırımlarında, yumurta tavuğu yetiştiriciliği başlangıç olmak kaydıyla, yem tesisi ve/veya soğuk hava deposu ve/veya yumurta tasnif ve paketleme ünitesi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "maddeNo": "10",
+        "başlık": "Stratejik yatırımlar",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Aşağıda yer alan kriterlerin tamamını birlikte sağlayan, ithalat bağımlılığı yüksek ürünlerin üretimine yönelik yatırımlar stratejik yatırım olarak değerlendirilir.",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "Asgari sabit yatırım tutarının ellimilyon Türk Lirasının üzerinde olması (münhasıran bu yatırımların enerji ihtiyacını karşılamak üzere gerçekleştirilecek doğalgaza dayalı olmayan enerji yatırımlarının tesis kurulu gücü ile orantılanacak kısmı yatırım tutarına dahil edilir)."
+              },
+              {
+                "bentNo": "b",
+                "metin": "Teşvik belgesine konu yatırımda üretilecek ürünle ilgili yurtiçi toplam üretim kapasitesinin, aynı ürünün ithalatından az olması."
+              },
+              {
+                "bentNo": "c",
+                "metin": "Teşvik belgesi kapsamında gerçekleştirilecek yatırımla asgari yüzde kırk oranında katma değer sağlanması."
+              },
+              {
+                "bentNo": "ç",
+                "metin": "Yatırım konusu tesiste üretilecek ürünle ilgili son bir yıl içerisinde gerçekleşen toplam ithalat tutarının ellimilyon ABD Dolarının üzerinde olması (ithalat miktarının tespitinde, müracaat tarihinden önce yayımlanmış son oniki aylık resmi veriler esas alınır)."
+              }
+            ]
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Birinci fıkrada yer alan kriterlerin değerlendirilmesinde, EK-10’da belirtilen esaslar dikkate alınır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Yurt içinde üretimi bulunmayan ürünlerin üretimine yönelik yatırımlarda birinci fıkranın (ç) bendi, rafineri ve petrokimya yatırımlarında ise (c) bendi hükmü uygulanmaz.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "4",
+            "metin": "Stratejik yatırımlar için istenilen fizibilite raporunda, yatırıma konu ürünle ilgili yurt içi üretim kapasitesi, ithalat miktarı ve yatırımla oluşturulacak katma değere ilişkin detaylı bilgi ve analizlerin bulunması gerekir. Aksi takdirde müracaatlar değerlendirmeye alınmaz.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "5",
+            "metin": "Projenin değerlendirilmesine esas teşkil etmek üzere münhasıran yatırıma konu ürüne yönelik bilgiler ve hesaplamalar gerektiğinde diğer kurum ve kuruluşlardan teyit edilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "6",
+            "metin": "Genel Müdürlükçe yapılan incelemede stratejik yatırımların teşviki kapsamında değerlendirilen yatırım projeleri ön inceleme raporu ile birlikte Komisyonun onayına sunulur.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "7",
+            "metin": "Stratejik yatırımların teşvikine yönelik başvurularda nihai karar yetkisi Komisyona aittir. Komisyon, bu kapsamdaki projeleri değerlendirmek üzere tüm üyelerin katılımı ile toplanır ve oy birliği ile karar alır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "8",
+            "metin": "Komisyon tarafından stratejik yatırım olduğuna karar verilen yatırım projeleri için Genel Müdürlükçe teşvik belgesi düzenlenir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "9",
+            "metin": "Genel Müdürlük tarafından gerçekleştirilen ön inceleme veya Komisyonca verilen nihai karar sonucunda stratejik yatırımların teşviki kapsamında değerlendirilmesi uygun bulunmayan yatırım projeleri reddedilir veya yatırımcı talebine istinaden Karar kapsamında yer alan diğer teşvik uygulamaları çerçevesinde değerlendirilebilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "10",
+            "metin": "Birinci fıkrada yer alan kriterlere ilişkin yapılan değerlendirmede kullanılan verilerin piyasa şartları gereği bilahare değişmesi durumunda, desteklerle ilgili herhangi bir değişiklik yapılmaksızın belge geçerliliğini muhafaza eder.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "11",
+        "başlık": "Başlamış işlemler ve mahrece iade",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Yatırım süresi içerisinde ilgili kambiyo mevzuatında yer alan ödeme şekillerinden herhangi biri ile ithalat işlemlerine başlanılmış veya bedeli kısmen ya da tamamen ödenmiş ancak ithalatı gerçekleştirilememiş makine ve teçhizatın ithaline, yatırım süresi bitiş tarihini izleyen dört ay içerisinde, gümrük idarelerince belge kapsamında sağlanan destek unsurları uygulanmak suretiyle izin verilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Teşvik belgesinin yatırım süresi içerisinde;",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "Evsafa uygun çıkmaması sonucu, eşyanın serbest dolaşıma girişini müteakip garanti süresi içinde yurt dışı edilecek makine ve teçhizatın,"
+              },
+              {
+                "bentNo": "b",
+                "metin": "Tamir, bakım veya diğer nedenlerle yurt dışına gönderilecek makine ve teçhizatın,"
+              }
+            ]
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "mahrece iade işlemleri için doğrudan gümrük idaresine müracaat edilir. Bu yöndeki talepler ilgili gümrük idaresince, gümrük mevzuatı çerçevesinde sonuçlandırılır. Mahrece iade işlemine konu yatırım mallarının yurt dışı edilmesinden itibaren bir yıl içerisinde aynısı veya yenisinin yurda giriş işlemleri, Genel Müdürlüğün herhangi bir iznine tabi olmaksızın gümrük vergisi muafiyeti ile katma değer vergisi istisnasından yararlandırılmak suretiyle doğrudan gümrük idarelerince sonuçlandırılır.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "12",
+        "başlık": "Kullanılmış makine ve teçhizat ithali",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Kullanılmış makine ve teçhizat temininde, Karar hükümleri ve sektörel kısıtlamalar göz önüne alınarak;",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "İthalat Rejimi Kararı uyarınca yayımlanan Kullanılmış veya Yenileştirilmiş Olarak İthal Edilebilecek Bazı Maddelere İlişkin Tebliğ hükümleri uyarınca ithali mümkün olan makine ve teçhizat (karayolu nakil vasıtaları hariç),"
+              },
+              {
+                "bentNo": "b",
+                "metin": "İthalat Rejimi Kararının 7 nci maddesi uyarınca ithaline izin verilen makine ve teçhizat,"
+              }
+            ]
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "teşvik belgesi kapsamında ithal edilebilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Kullanılmış komple tesislerin (karayolu nakil vasıtaları hariç) ithaline yönelik talepler, Genel Müdürlükçe proje bazında değerlendirilir. Teşvik belgesi kapsamında ithaline izin verilen bu tesisler, yatırım konusuna bağlı olarak yardımcı tesislerden bağımsız, bir mal veya hizmeti üretebilecek komple bir hattan veya teşvik belgesinde kayıtlı üretimi yapabilecek bir veya birden fazla makine ve teçhizattan da oluşabilir. Ancak, farklı firmalardan temin edilen münferit makine ve teçhizat ile tesis oluşturulamayacağı gibi, söz konusu tesislerin revizyon ve ticareti ile iştigal eden firmalardan da teşvik belgesi kapsamında ithalat yapılamaz.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "4",
+            "metin": "Kullanılmış komple tesis taleplerinin değerlendirilebilmesi için yatırımcıların, tesise ait makine ve teçhizatın model ve imal yıllarını da gösterir dökümlü fatura veya proforma fatura asılları ile birlikte Bakanlığa müracaat etmeleri gerekir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "5",
+            "metin": "Bakanlıkça görevlendirilecek en az iki en fazla üç personelin komple tesisin bulunduğu ülkede yapacakları ekspertiz neticesinde uygun görülmesi halinde, kullanılmış komple tesisin teşvik belgesi kapsamında ithaline izin verilebilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "6",
+            "metin": "Türkiye'deki serbest bölgelerden yapılacak kullanılmış komple tesis ithali taleplerinde; Bakanlığın Serbest Bölgeler, Yurt Dışı Yatırım ve Hizmetler Genel Müdürlüğünden alınmış mevcut tesisin faaliyet ruhsatı ile tesisin ülke içerisine ithalinde serbest bölgeler mevzuatı açısından herhangi bir sakınca bulunmadığına ilişkin uygunluk yazısının Genel Müdürlüğe ibrazını müteakip, Genel Müdürlük personelince kullanılmış komple tesisin bulunduğu serbest bölgede yapılacak ekspertiz neticesinde düzenlenecek rapora istinaden teşvik belgesi kapsamında ithaline izin verilebilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "7",
+            "metin": "Kullanılmış olarak ithal edilen makine ve teçhizatın amacı dışında kullanılması veya 21 inci madde hükmü saklı kalmak üzere satılması halinde sağlanan destekler ilgili mevzuat çerçevesinde geri alınır. Söz konusu makine ve teçhizat, kullanılmış komple tesis kapsamında temin edilmiş ise dört ay içerisinde ihraç edilir veya gümrüklerce yapılacak tüm masraflar yatırımcı tarafından karşılanmak suretiyle tasfiye edilmek üzere gümrüklere terk edilir.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "13",
+        "başlık": "Faiz desteği",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Faiz desteği uygulamasına ilişkin esaslar, Genel Müdürlük ve aracı kurumlar arasında imzalanan protokol ile belirlenir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Teşvik belgesinde faiz desteği öngörülen yatırımcılar faiz desteğinden yararlanabilmek için Genel Müdürlük ile protokol imzalayan aracı kurumlardan birine başvururlar. Aracı kurum tarafından yapılan değerlendirme sonucunda kredi kullanımı veya finansal kiralama sözleşmesi yapılması uygun görülen projelere ilişkin faiz desteği müracaatları, yatırımcı adına protokolde belirtilen esaslar çerçevesinde aracı kurumca Genel Müdürlüğe yapılır. Müracaatın, Genel Müdürlük tarafından yapılacak değerlendirme sonucu uygun görülmesi gerekir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Aynı teşvik belgesi kapsamı yatırım için faiz desteği uygulamasına yönelik olarak, yatırım süresince birden fazla aracı kurum talepte bulunamaz. Faiz desteğinden yararlandırılmaya başlanıldıktan sonra aracı kurum değiştirilmemek kaydıyla aynı teşvik belgesi kapsamı yatırım için birden fazla itfa tablosuna göre işlem yapılabilir. Stratejik yatırımlar için, faiz desteği uygulamasına yönelik olarak birden fazla aracı kurum talepte bulunabilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "4",
+            "metin": "Faiz desteği ödemesinin yapılabilmesi için;",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu uyarınca Türkiye genelinde Sosyal Güvenlik Kurumuna muaccel olmuş prim ve idari para cezası borçlarının bulunmadığının veya tecil ve/veya taksitlendirildiğinin ya da yapılandırıldığının ve yapılandırmanın bozulmadığının,"
+              },
+              {
+                "bentNo": "b",
+                "metin": "21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 22/A maddesi uyarınca Maliye Bakanlığı tahsilat dairelerine müracaat tarihinden önceki onbeş gün içerisinde vadesi geçmiş borcunun olmadığının,"
+              }
+            ]
+          },
+          {
+            "fıkraNo": "5",
+            "metin": "tevsik edilmesi gerekmektedir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "6",
+            "metin": "Bakanlıkça faiz desteği ödemelerinin vadeyi takip eden ayın sonuna kadar yapılması esastır. Ancak, Hazine nakit dengesi veya diğer zorunlu haller nedeniyle ödeme tarihinde Bakanlıkça değişiklik yapılabilir.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "14",
+        "başlık": "Sigorta primi işveren hissesi desteği",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Sigorta primi işveren hissesi desteği, komple yeni yatırımlarda belge kapsamında gerçekleştirilen yatırımla sağlanan istihdam, diğer yatırım cinslerinde ise mevcuda ilave edilen istihdam için uygulanır. Komple yeni yatırım dışındaki yatırım cinslerinde, aylık prim ve hizmet belgesinde kayıtlı işçi sayısının mevcut istihdamın altında olması halinde ilgili ay için prim desteği uygulanmaz.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "İşveren hissesine ait primlerin karşılanabilmesi için işverenlerin çalıştırdıkları sigortalılarla ilgili olarak 5510 sayılı Kanun uyarınca aylık prim ve hizmet belgelerini yasal süresi içerisinde Sosyal Güvenlik Kurumuna vermesi ve sigortalıların tamamına ait sigorta primlerinin sigortalı hissesine isabet eden tutar ile Bakanlıkça karşılanmayan işveren hissesine ait tutarı ödemiş olması gerekir. İşveren tarafından ödenmesi gereken primlerin geç ödenmesi halinde, Bakanlıktan Sosyal Güvenlik Kurumuna yapılacak ödemenin gecikmesinden kaynaklanan gecikme zammı işverenden tahsil edilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Sigorta primi işveren hissesi desteği uygulamasına, tamamlama vizesi tarihinin Sosyal Güvenlik Kurumuna bildirilmesini takip eden aydan itibaren başlanır. Uygulamanın ilk başladığı ay esas alınarak teşvik belgesinde kayıtlı azami destek oranının aşılmaması kaydıyla belgede belirtilen süre kadar yararlandırıldıktan sonra uygulamaya son verilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "4",
+            "metin": "Sigorta primi işveren hissesi desteğinin uygulanması ile ilgili işlemler Sosyal Güvenlik Kurumunca ilgili mevzuatı çerçevesinde yürütülür.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "5",
+            "metin": "Genel Müdürlükçe, tamamlama vizesi yapılan ve sigorta primi işveren hissesi desteğinden yararlanabilecek teşvik belgesi sahibi işletmelere ilişkin olarak firma adı, teşvik belgesi tarih ve sayısı, yatırım yeri ve adresi, SGK işyeri sicil numarası, yatırımın cinsi, mevcut istihdam, ilave istihdam, vergi dairesi, vergi numarası, destekten yararlanma süresi ve azami destek tutarı Sosyal Güvenlik Kurumu Başkanlığına bildirilir. Sosyal Güvenlik Kurumunca, destekten yararlanacak yatırımcılar için;",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "Desteğin uygulanacağı aya ait prim ve hizmet belgesinde belirtilen sigortalıların tamamına ait sigorta primlerinin, sigortalı hissesine isabet eden tutar ve Bakanlıkça karşılanmayan işveren hissesine ait tutarın tamamının ödendiğinin,"
+              },
+              {
+                "bentNo": "b",
+                "metin": "5510 sayılı Kanun uyarınca Türkiye genelinde Sosyal Güvenlik Kurumuna muaccel olmuş prim ve idari para cezası borçlarının bulunmadığının veya tecil ve/veya taksitlendirildiğinin ya da yapılandırıldığının ve yapılandırmanın bozulmadığının,"
+              },
+              {
+                "bentNo": "c",
+                "metin": "6183 sayılı Kanunun 22/A maddesi uyarınca Maliye Bakanlığı tahsilat dairelerine müracaat tarihinden önceki onbeş gün içerisinde vadesi geçmiş borcunun olmadığının,"
+              }
+            ]
+          },
+          {
+            "fıkraNo": "6",
+            "metin": "tespit edilmiş olması gerekir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "7",
+            "metin": "Bu maddenin dokuzuncu fıkra hükmü hariç olmak üzere sigorta primi işveren hissesi desteği, sadece teşvik belgesi kapsamı yatırımda istihdam edilen ilave sigortalılar için, teşvik belgesinde kayıtlı azami destek oranını aşmamak kaydıyla belirtilen sürelerde uygulanır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "8",
+            "metin": "Sosyal Güvenlik Kurumu tarafından sigorta primi işveren hissesi desteğinin uygulanmasını müteakip EK-8’de yer alan formatta Bakanlıktan toplu aktarım talebinde bulunulur. Ödemeye esas istihdam sayısının ve Bakanlıktan aktarımı talep edilen tutarın doğruluğundan Sosyal Güvenlik Kurumu sorumludur.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "9",
+            "metin": "Sigorta primi işveren hissesi desteğinin uygulanacağı teşvik belgesi kapsamındaki yatırıma ait tesiste, işverenin sosyal güvenlik işyeri numarası altında ilgili mevzuatta belirtilen aracılarca istihdam edilen sigortalı sayısı da dikkate alınabilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "10",
+            "metin": "Genel teşvik uygulamaları kapsamında desteklenen, tersanelerin gemi inşa yatırımlarında tamamlama vizesi şartı aranmaksızın belge konusu geminin yapımında istihdam edilen sigortalılar için ödenmesi gereken sigorta primi işveren hissesinin asgari ücrete tekabül eden kısmı Bakanlıkça karşılanabilir. Bu destek, gemi inşası devam etse dahi yatırıma başlama tarihinden itibaren en fazla on sekiz ay süreyle uygulanır. Yat, yüzer tesis ve deniz araçlarının inşasına yönelik yatırımlar da bu kapsamda değerlendirilir. Uygulamaya, teşvik belgesinde kayıtlı istihdam sayısını aşmamak üzere ödemeye esas bilgilerin Sosyal Güvenlik Kurumuna bildirilmesini takip eden aydan itibaren başlanır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "11",
+            "metin": "Yatırımın devri halinde uygulamadan devir tarihine kadar devreden, devir tarihinden sonra ise aynı koşulları yerine getirmek kaydıyla kalan süre kadar devralan yararlanır.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "15",
+        "başlık": "Sigorta primi desteği",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "14 üncü maddenin birinci, ikinci, üçüncü, dördüncü, beşinci, yedinci, sekizinci ve onuncu fıkra hükümleri sigorta primi desteği için de uygulanır.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "16",
+        "başlık": "İthal ve yerli makine ve teçhizat listesi değişikliği",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Teşvik belgesi ekinde yer alan ithal ve yerli makine ve teçhizat listelerine ilişkin değişiklik talepleri, teşvik belgesi düzenlenmesi için müracaat edilen merci tarafından sonuçlandırılır. Ancak, kullanılmış komple tesislerin teşvik belgesi kapsamına dahil edilmesine ilişkin müracaatlar Bakanlığa yapılır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "İthal ve yerli makine ve teçhizat listelerinde yer alan fiyatların, her bir makine ve teçhizat itibarıyla yüzde yüze kadar artış veya yüzde elliye kadar azalışlarında liste tadilatı yapılmaksızın doğrudan işlem yapılabilir.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "17",
+        "başlık": "Teşvik belgesinin revizesi",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Teşvik belgesinde kayıtlı olan değerlerde, yatırımın her aşamasında tevsik edilen bilgi ve belgelere istinaden yapılacak değerlendirme sonucunda teşvik belgesini düzenleyen merci tarafından değişiklik yapılabilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Teşvik belgesinin sabit yatırım tutarının yüzde ellisinin üzerindeki artış veya azalışlar ile belgede kayıtlı diğer bilgilerde değişiklik olması durumunda yatırımcılar, teşvik belgesini düzenleyen mercie müracaat ederek, teşvik belgesinin revizesi talebinde bulunabilirler.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Yatırıma başlama tarihinden sonra temin edilen, ancak makine teçhizat listelerinde yer almayan makine ve teçhizatın proje ile uyumlu olanları, teşvik belgesi kapsamında temin edilmiş sayılmak suretiyle belge kapsamına dahil edilebilir.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "18",
+        "başlık": "Süre uzatımı",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Teşvik belgesine konu yatırımların proje bazında yapılacak değerlendirme sonucunda öngörülecek sürede gerçekleştirilmesi esastır. Yatırımın öngörülen sürede gerçekleştirilememesi halinde, yatırım harcaması yapılmış olması kaydıyla EK-6’da yer alan Yatırım Takip Formu ile birlikte teşvik belgesinin düzenlendiği mercie süre uzatımı talebinde bulunulması durumunda, teşvik belgesinde kayıtlı ilk sürenin yarısı kadar ek süre verilebilir. Bu şekilde hesaplanan ek sürenin bir yıldan az olması halinde ek süre bir yıl olarak uygulanabilir.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "19",
+        "başlık": "Yatırım konusu değişikliği",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Yatırım konusu değişikliği talepleri için teşvik belgesi müracaatını değerlendiren mercie başvurulur.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Yatırımcı tarafından yeni yatırıma ilişkin olarak verilecek yatırım bilgi formuna istinaden yürürlükteki mevzuat hükümleri çerçevesinde bölgesel ve sektörel kısıtlamalar da dikkate alınarak, teşvik belgesi üzerinde yatırım konusuna ilişkin değişiklik yapılabilir. Değişikliğin ilgili yerel birim tarafından yapılabilmesi için Genel Müdürlüğün uygun görüşünün alınması gerekir. Yatırım konusu değişikliğinden önce satın alınmış ancak, yeni yatırım konusu ile ilgili olmayan makine ve teçhizat için uygulanan destekler ilgili mevzuat çerçevesinde geri alınır.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "20",
+        "başlık": "Finansal kiralama işlemleri",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Teşvik belgesi kapsamında yer alan makine ve teçhizatın tamamı veya bir kısmı finansal kiralama yolu ile temin edilebilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Finansal kiralama şirketinin gümrük vergisi muafiyeti ve KDV istisnası desteklerinden yararlanabilmesi için, teşvik belgesi sahibi yatırımcı ile sözleşme yapılmış olması ve teşvik belgesini düzenleyen ilgili merci tarafından finansal kiralamaya konu makine ve teçhizat listesinin onaylanmış olması gerekir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Yatırımcının teşvik belgesi dikkate alınarak finansal kiralama şirketi adına düzenlenen makine ve teçhizat listesi ile yerli temin ve/veya ithalat işlemleri yapılır. Bu işlemlerde yatırımcı, finansal kiralama şirketleri ile müteselsilen sorumludur.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "4",
+            "metin": "Finansal kiralama işlemine konu makine ve teçhizatın devir, satış ve ihraç işlemleri, finansal kiralama şirketi ve yatırımcının birlikte müracaat etmeleri halinde, 21 inci madde hükümleri çerçevesinde 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanunu ile 10/6/1985 tarihli ve 3226 sayılı Finansal Kiralama Kanunu’nun ilgili hükümleri saklı kalmak kaydıyla değerlendirilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "5",
+            "metin": "Finansal kiralamaya konu makine ve teçhizatın, yatırımcının mülkiyetine geçiş tarihine kadar Genel Müdürlüğün izni olmaksızın üçüncü kişilere satışı veya kiralanması durumunda her türlü sorumluluk finansal kiralama şirketine aittir. İflas veya sözleşmenin feshi veya yatırımın gerçekleşmemesi durumunda, yatırımcının mülkiyetine geçmemiş makine ve teçhizat için faydalanılan destekler ilgili mevzuat çerçevesinde finansal kiralama şirketinden geri alınır. Ancak, makine ve teçhizatın yatırımcının mülkiyetine geçmiş olması durumunda ilgili yasal düzenlemeler saklı kalmak kaydıyla yatırımcı sorumludur.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "6",
+            "metin": "Finansal kiralama işlemine konu makine ve teçhizatın başka bir yatırımcıya devrinin talep edilmesi halinde; finansal kiralama şirketi, devredecek yatırımcı ve devralacak yatırımcının birlikte müracaatı üzerine yeni sözleşmeye istinaden devir işlemi yapılabilir. Bu durumda yatırım bütünlüğünün bozulması halinde söz konusu makine ve teçhizatın yeniden temin edilmesi gerekir. Ayrıca, yeni yatırımcının teşvik belgesinde kayıtlı destek unsurlarının, ilk yatırımcının yararlandığı destek unsurlarından daha düşük olması veya destek unsurunun hiç bulunmaması durumunda fazladan yararlanılan destekler ilgili mevzuat çerçevesinde geri alınır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "7",
+            "metin": "Finansal kiralamaya konu makine ve teçhizatın başka bir finansal kiralama şirketine devri, ancak yatırımcının uygun görüşü ve Genel Müdürlüğün onayına istinaden yapılabilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "8",
+            "metin": "Teşvik belgesi kapsamındaki kullanılmış ithal makine ve teçhizatın finansal kiralama yoluyla teminine izin verilebilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "9",
+            "metin": "3226 sayılı Kanunun 23 üncü maddesinde belirtilen ihbar süresinin bitimini müteakip en geç üç ay içerisinde kiralayan veya kiracı tarafından ilgili mercie bildirimde bulunulması kaydıyla, sözleşmenin feshedilmesi ve finansal kiralamaya konu makine ve teçhizatın bildirimi takip eden bir yıl içerisinde (22 nci madde hükümleri hariç) devrinin talep edilmesi durumunda, finansal kiralama şirketi ile devralacak teşvik belgeli yatırımcının birlikte müracaatına istinaden yeni sözleşme çerçevesinde devir işlemi uygun görülebilir. Aksi takdirde, yararlanılan destekler finansal kiralama şirketinden geri alınır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "10",
+            "metin": "Bu maddede belirtilmeyen hususlarda 3226 sayılı Kanun hükümleri dikkate alınarak Genel Müdürlüğün görüşü doğrultusunda işlem tesis edilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "11",
+            "metin": "Finansal kiralamaya konu işlemin tamamlanmasını müteakip, finansal kiralama şirketi tarafından Genel Müdürlüğe veya ilgili mercie gerçekleşmelerle ilgili bilgi verilir.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "21",
+        "başlık": "Devir, satış, ihraç ve kiralama",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Tamamlama vizesi yapılıp yapılmadığına bakılmaksızın belge kapsamında temin edilen makine ve teçhizatın beş yılını doldurmadan devri, satışı, ihracı ve kiralanması Genel Müdürlüğün iznine tabidir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Tamamlama vizesi yapılmamış olan teşvik belgesi kapsamındaki makine ve teçhizatın satışının talep edilmesi durumunda Genel Müdürlükçe, yatırımcıdan teşvik belgesinin iptali halinde satışı yapılan makine ve teçhizata ait desteklerin kendileri tarafından ödeneceğine dair taahhütname alınır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Teşvik belgesi kapsamı yatırımların bütün olarak satışı, tamamlama vizesinin yapılmış olması ve işletmeye geçiş tarihinden itibaren beş yıl faaliyette bulunulmuş olması halinde serbesttir. Bu tür durumlarda devir işlemi yapılmaz.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "4",
+            "metin": "Sadece modernizasyon cinsinde teşvik belgesi düzenlenebilen konularda düzenlenecek teşvik belgelerinde modernizasyona yönelik olarak aktiflerden düşülecek makine ve teçhizatın asgari üç yıl firma aktifinde bulunmuş olması ve aktiflerden düşmeye yönelik satışlarda satışı yapan firmanın ortakları ve birinci derece yakınlarının satın alan firma ortaklık yapısında yüzde ellinin üzerinde pay sahibi olmamaları şartı aranır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "5",
+            "metin": "Tamamlama vizesi yapılıp yapılmadığına bakılmaksızın işletmeye geçiş tarihinden itibaren beş yıllık süreyi doldurmamış yatırımların bütün olarak devri, teşvik belgesi üzerinde unvan değişikliği yapılmak suretiyle uygun görülebilir.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "22",
+        "başlık": "Mücbir sebep ve fevkalade hal durumları",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Teşvik belgesi düzenlenmesinden tamamlama vizesi işlemleri sonuçlanıncaya kadar devam eden işlemlerle ilgili olarak;",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "Tabii afetler ve yangın (ilgili resmi kurumlardan alınacak yazı ile varsa sigorta hasar ekspertiz raporu aranır),"
+              },
+              {
+                "bentNo": "b",
+                "metin": "Yatırımcının faaliyetlerinden kaynaklanmayıp diğer nedenlerle kamu idarelerinin aldığı kararlar ve uygulamalar sonucu yatırımcının faaliyet ve/veya yatırım yapamaz hale gelmesi (ilgili kamu kurumundan alınacak yazı aranır),"
+              },
+              {
+                "bentNo": "c",
+                "metin": "Grev ve lokavt (İl çalışma müdürlüklerinden alınacak yazı aranır),"
+              },
+              {
+                "bentNo": "ç",
+                "metin": "Devletçe konulan yasaklar, savaş ve abluka hali,"
+              },
+              {
+                "bentNo": "d",
+                "metin": "Yatırımcının çoğunluk hissesi sahiplerinin ölümü (mahkeme kararı aranır),"
+              },
+              {
+                "bentNo": "e",
+                "metin": "Yatırım konusu makine ve teçhizatın, yatırımcının iradesi ve kusuru dışında çalınma vb. sebeplerle elden çıkması ( resmi kurumlardan alınacak yazı aranır)"
+              }
+            ]
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "halleri mücbir sebep ve fevkalade hal durumları olarak değerlendirilir.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "23",
+        "başlık": "Tamamlama vizesi",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Genel Müdürlük, yatırımların tamamlama ekspertizi ve/veya vizesi işlemleri için yerel birimleri, odaları, bankaları veya yatırımın bulunduğu il valiliğini görevlendirebilir. Ayrıca, Genel Müdürlükçe uygun görülmesi halinde, daha önceki kararlara istinaden düzenlenen teşvik belgeleri de dahil olmak üzere tamamlama vizesi işlemleri, EK-5’de yer alan bilgi ve belgelere ilave olarak yeminli mali müşavirlerce düzenlenecek tamamlama ekspertiz raporuna istinaden de yapılabilir. Ancak, Genel Müdürlük gerekli görülen hallerde yatırım yerinde tespit yapmaya yetkilidir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Ekspertiz işlemlerinin Genel Müdürlükçe yapılacak olması halinde, yatırım mahallinde ekspertiz yapmak üzere Genel Müdürlükten en az iki, en fazla üç personel görevlendirilir. Genel Müdürlük tarafından yerel birimler, odalar, bankalar veya yatırımın bulunduğu il valiliğinin görevlendirilmesi halinde; tamamlama ekspertizi ve/veya vizesi işlemleri, görevlendirilen mercinin kadrolu iki personeli ile yatırımcı tarafından tayin edilecek yeminli mali müşavirin yapacakları inceleme sonucunda müştereken düzenlenecek EK-7’de yer alan yatırım tamamlama ekspertiz raporuna istinaden ilgili merci tarafından yapılır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Tamamlama vizesi için görevlendirilen merci tarafından yapılan ekspertiz işlemleri sonucunda yatırımın gerçekleşme değerleri ile birlikte tamamlama vizesi şerhi, ilgili merci tarafından doğrudan teşvik belgeleri üzerine derc edilerek sonucundan Genel Müdürlüğe bilgi verilir. Tamamlama vizesi işlemi ile ilgili olarak, EK-7’de yer alan yatırım tamamlama ekspertiz raporu, teşvik belgesinin aslı, ithal ve yerli makine ve teçhizat liste asılları ve gerçekleşen değerler üzerinden hazırlanmış ilgili merci tarafından onaylı yeni listeler bir ay içerisinde nihai onay için Genel Müdürlüğe gönderilir. Genel Müdürlükçe uygun görülen tamamlama vizesi işlemleri ile ilgili olarak yatırımcıya ve ekspertiz işlemini yapan mercie bilgi verilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "4",
+            "metin": "Faiz desteği ihtiva eden teşvik belgelerinin tamamlama vizesi işlemleri yapılmak üzere, ekspertiz raporu ve eklerinin ilgili merci tarafından Genel Müdürlüğe gönderilmesi gerekir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "5",
+            "metin": "Daha önceki Kararlara istinaden düzenlenen teşvik belgeleri de dahil olmak üzere, ekspertiz işlemleri için görevlendirilecek personelin her birine ödenecek ekspertiz ücreti yüz Türk Lirasıdır. Bu görevlendirmelerde ekspertiz ücreti, yol ve konaklama giderleri yatırımcı tarafından karşılanır. Yatırımcılardan, başka hiçbir ad altında ilave ücret talep edilemez.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "6",
+            "metin": "Kamu kuruluşlarınca gerçekleştirilen yatırımların tamamlama vizesi işlemleri ekspertiz işlemi yapılmaksızın doğrudan ilgili kuruluş tarafından verilecek bilgi ve belgelere istinaden Genel Müdürlükçe yapılır.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "7",
+            "metin": "Mücbir sebep ve fevkalade hal durumları nedeniyle tamamlama vizesine ilişkin aranan belgelerin ibraz edilememesi durumunda tamamlama vizesine ilişkin talepler;",
+            "altBentler": [
+              {
+                "bentNo": "a",
+                "metin": "Teşvik belgesi kapsamında ithali yapılan makine ve teçhizata ilişkin ilgili gümrük idaresinden temin edilecek gümrük giriş beyannamelerinin onaylı örneklerinin,"
+              },
+              {
+                "bentNo": "b",
+                "metin": "Alımı gerçekleştirilen yerli makine ve teçhizata ait satıcı firmalardan temin edilecek fatura nüshalarının,"
+              },
+              {
+                "bentNo": "c",
+                "metin": "Varsa diğer yatırım harcamalarına ait ilgili kurum ve kuruluşlardan temin edilecek belgelerin,"
+              },
+              {
+                "bentNo": "ç",
+                "metin": "Arsa bedeli için ilgili tapu dairesinden temin edilecek tapu örneğinin,"
+              },
+              {
+                "bentNo": "d",
+                "metin": "Bina-inşaat harcamaları için ilgili belediyeden temin edilecek yapı ruhsatı ve/veya yapı kullanım izin belgesi örneğinin,"
+              },
+              {
+                "bentNo": "e",
+                "metin": "Mücbir sebep ve fevkalade hal durumunu tevsik eden ilgili resmi kurumlardan alınacak yazının,"
+              }
+            ]
+          },
+          {
+            "fıkraNo": "8",
+            "metin": "Genel Müdürlüğe ibraz edilmesini müteakip sonuçlandırılabilir.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "9",
+            "metin": "Daha önceki yıllara ait Bakanlar Kurulu Kararlarına istinaden düzenlenmiş olan teşvik belgelerinin tamamlama vizeleri, ilgili olduğu kararlardaki lehe gelen hükümler saklı kalmak kaydı ile belgenin düzenlendiği şekli dikkate alınarak yapılır. Bu belgelerden, Kaynak Kullanımını Destekleme Primi ihtiva edenlerin tamamlama vizesi işlemleri, ilgili banka tarafından fiziki, mali ve teknik inceleme yapılmak suretiyle tanzim edilmiş olan ve prim ödemesine esas teşkil eden raporlara istinaden doğrudan Genel Müdürlükçe yapılabilir.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "24",
+        "başlık": "Görev verilen kurum ve kuruluşların yükümlülükleri",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Yerel birimler ile valilikler, odalar, bankalar, yeminli mali müşavirler gibi görev verilen kurum ve kuruluşlar Karar ve Tebliğ’in uygulamasına yönelik olarak yapmış oldukları işlemlerden sorumludurlar.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "2",
+            "metin": "Görev verilen ilgili kurum ve kuruluşlar yapılan müracaatları iki ay içerisinde sonuçlandırmakla yükümlüdür.",
+            "altBentler": []
+          },
+          {
+            "fıkraNo": "3",
+            "metin": "Karar veya tebliğ hükümlerine aykırı davrandığı tespit edilen, Bakanlık tarafından verilen görüşleri ve talimatları uygulamayan yerel birimler ile görev verilen diğer kuruluşların yetkilerine Bakanlıkça son verilir ve gerekli tedbirleri alıncaya kadar yeni görev verilmez.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "25",
+        "başlık": "Yürürlükten kaldırılan tebliğ",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "28/7/2009 tarihli ve 27302 sayılı Resmî Gazete’de yayımlanan Yatırımlarda Devlet Yardımları Hakkında Kararın Uygulanmasına İlişkin Tebliğ (Tebliğ No: 2009/1) yürürlükten kaldırılmıştır.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "GEÇİCİ MADDE 1",
+        "başlık": "Uygulama",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Bu Tebliğin hükümleri, Kararın lehe gelen hükümleri açısından 1/1/2012 tarihinden sonra yapılan müracaatlara istinaden düzenlenen teşvik belgelerine de uygulanır.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "26",
+        "başlık": "Yürürlük",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Bu Tebliğ yayımı tarihinde yürürlüğe girer.",
+            "altBentler": []
+          }
+        ]
+      },
+      {
+        "maddeNo": "27",
+        "başlık": "Yürütme",
+        "fıkralar": [
+          {
+            "fıkraNo": "1",
+            "metin": "Bu Tebliğ hükümlerini Ekonomi Bakanı yürütür.",
+            "altBentler": []
+          }
+        ]
+      }
+    ]
+  }
